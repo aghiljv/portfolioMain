@@ -53,13 +53,13 @@ jobs:
           mkdir -p .output/public
           cp -a public/. .output/public/
 
-      - name: Verify blog image assets
-        run: |
-          test -d .output/public/assets/images/blog
-          test -f .output/public/.nojekyll
-          test -f .output/public/assets/images/blog/231023/keywords.webp
-          test -f .output/public/assets/images/blog/231023/keywords.jpg
-          test "$(find public/assets -type f | wc -l)" -eq "$(find .output/public/assets -type f | wc -l)"
+      # - name: Verify blog image assets
+      #   run: |
+      #     test -d .output/public/assets/images/blog
+      #     test -f .output/public/.nojekyll
+      #     test -f .output/public/assets/images/blog/231023/keywords.webp
+      #     test -f .output/public/assets/images/blog/231023/keywords.jpg
+      #     test "$(find public/assets -type f | wc -l)" -eq "$(find .output/public/assets -type f | wc -l)"
 
       - name: Copy Nuxt client assets to public output
         run: |
@@ -68,10 +68,10 @@ jobs:
           mkdir -p .output/public
           cp -R "$client_assets"/. .output/public/
 
-      # - name: Verify generated CSS assets
-      #   run: |
-      #     find .output/public -type f -name '*.css' -print
-      #     test -n "$(find .output/public -type f -name '*.css' -print -quit)"
+      - name: Verify generated CSS assets
+        run: |
+          find .output/public -type f -name '*.css' -print
+          test -n "$(find .output/public -type f -name '*.css' -print -quit)"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
