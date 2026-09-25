@@ -2,12 +2,12 @@
 title: "Why Game Engines?"
 description: "What are the needs for game engines and how they came to be."
 date: 2020-09-21
-image: /assets/images/blog/210920/geTitle.webp
+image: /assets/images/blog/210920/geTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -43,7 +43,7 @@ But, why and how did they came into existence?
 
 On top of these most modern game engines also cover areas like:
 
-![newAreas](/assets/images/blog/210920/newAreas.webp)
+![newAreas](/assets/images/blog/210920/newAreas.jpg)
 
 Back in the day almost every game was built from scratch.
 
@@ -79,7 +79,7 @@ A game engine usually contains five components.
 
 - Artificial Intelligence.
 
-![newGames](/assets/images/blog/210920/newGames.webp)
+![newGames](/assets/images/blog/210920/newGames.jpg)
 
 Third-party game engines became popular since the rise for the demand of 3D
 games. Studios started to use them in order to speed up the development
@@ -100,7 +100,7 @@ choices as third -party game engines would have been Unreal Engine and Unity
 various areas such as high fidelity simulations, real-time graphics rendering
 in movies and so much more.
 
-![oldGames](/assets/images/blog/210920/oldGames.webp)
+![oldGames](/assets/images/blog/210920/oldGames.jpg)
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee

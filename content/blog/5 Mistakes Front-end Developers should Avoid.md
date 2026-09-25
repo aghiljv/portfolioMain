@@ -2,12 +2,12 @@
 title: "5 Mistakes Front-end Developers should Avoid"
 description: "An article regarding usual mistakes made by most Front-end Developers/Engineers."
 date: 2020-04-20
-image: /assets/images/blog/200420/frontMistake.webp
+image: /assets/images/blog/200420/frontMistake.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -64,7 +64,7 @@ common browsers they would like to support.
 
 ## 4. Not Creating Responsive Mobile Design
 
-![res](/assets/images/blog/200420/res.webp)
+![res](/assets/images/blog/200420/res.jpg)
 
 We have entered an era where people like to browse the web on phones rather
 than desktops. The rising trend of internet surfing on mobile phones makes it

@@ -2,12 +2,12 @@
 title: "Internet of Behaviours"
 description: "A sneak peek into the Internet of Behaviour."
 date: 2021-03-12
-image: /assets/images/blog/150321/title.webp
+image: /assets/images/blog/150321/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

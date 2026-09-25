@@ -2,12 +2,12 @@
 title: "Reflections on how we code"
 description: "What are some of the factors that help the way we evolve as an engineer."
 date: 2020-10-04
-image: /assets/images/blog/051020/title.webp
+image: /assets/images/blog/051020/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -24,7 +24,7 @@ and coworkers.
 
 ### Coworkers
 
-![coworkers](/assets/images/blog/051020/coworkers.webp)
+![coworkers](/assets/images/blog/051020/coworkers.jpg)
 
 In our careers, almost all of us will encounter people from many spectrums.
 There will be people who are extremely motivated and passionate about what
@@ -59,7 +59,7 @@ yourself writing better code through time.
 
 ### Environmental influences
 
-![environment](/assets/images/blog/051020/environment.webp)
+![environment](/assets/images/blog/051020/environment.jpg)
 
 Your priorities are going mainly to be a function of the size of your company
 or your team. Consider two teams, one might be weighted under the bureaucracy
@@ -72,7 +72,7 @@ more tests or write less future legacy codes. Now the following are how the
 size of your team or company could influence your code.
 
 ## Small Companies
-**![big](/assets/images/blog/051020/big.webp)
+**![big](/assets/images/blog/051020/big.jpg)
 
 You have to get things done. This could mean you writing less unit tests. The
 number of people who look and review your code will be less. There might not
@@ -85,7 +85,7 @@ to be thrown out completely and start over. Ideally you keep in mind that
 every chunk of code has a timeline and you should write it accordingly.
 
 ## Big Companies
-![small](/assets/images/blog/051020/small.webp)
+![small](/assets/images/blog/051020/small.jpg)
 
 Horizontal organisational structures are rare in big companies. This means
 there could be someone on your team that will only merge code if it satisfies

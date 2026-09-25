@@ -2,12 +2,12 @@
 title: "Virtual Test Drive & Autonomous Driving"
 description: "How autonomous driving technology can help us."
 date: 2020-07-05
-image: /assets/images/blog/050720/VTDtitle.webp
+image: /assets/images/blog/050720/VTDtitle.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -36,7 +36,7 @@ leveraged to our current needs.
 Let’s go through some of them.
 
 ## 1. Cost Saving
-![costSaving](/assets/images/blog/050720/costSaving.webp)
+![costSaving](/assets/images/blog/050720/costSaving.jpg)
 
 A fully equipped autonomous vehicle may cost around half a million dollars.
 Thus, making the cost for a small fleet of 20 cost around 10-12 million
@@ -49,7 +49,7 @@ much from the virtual environments before it even hits the road. Money will be
 saved by reducing number of prototypes in effect.
 
 ## 2. Distance Coverage
-![distanceCoverage](/assets/images/blog/050720/distanceCoverage.webp)
+![distanceCoverage](/assets/images/blog/050720/distanceCoverage.jpg)
 
 Back in 2018, the commonly accepted number of 1 Billion miles was supposed to
 be required for developing an autonomous driving system. By January 2020,
@@ -60,7 +60,7 @@ on public roads and followed through with the same rate, it would have taken
 around roughly them around 5.5 centuries to reach the 1st Billion.
 
 ## 3. More Scenarios to learn from
-![moreScenarios](/assets/images/blog/050720/moreScenarios.webp)
+![moreScenarios](/assets/images/blog/050720/moreScenarios.jpg)
 
 We could test them on real roads, if you only need to check a few use cases.
 However, we could never assure the use cases we encounter in real roads by
@@ -74,7 +74,7 @@ These scenarios are to be considered but might not be encountered in the real
 world.
 
 ## 4. Safety
-![safety](/assets/images/blog/050720/safety.webp)
+![safety](/assets/images/blog/050720/safety.jpg)
 
 There is a high probability of the vehicle not detecting a person or an animal
 and having a head on collision while testing. There is a chance of hitting

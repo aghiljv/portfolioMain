@@ -2,12 +2,12 @@
 title: "Industry 4.0 & Mixed Reality"
 description: "How could Mixed Reality revolutionize Industry 4.0."
 date: 2020-06-22
-image: /assets/images/blog/220620/mri4Title.webp
+image: /assets/images/blog/220620/mri4Title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -27,7 +27,7 @@ plethora of other features.
 But what can Mixed Reality contribute to the Industry 4.0?
 
 ## 1. Speed up the Quality Control process
-![improveTraining](/assets/images/blog/220620/improveTraining.webp)
+![improveTraining](/assets/images/blog/220620/improveTraining.jpg)
 
 Leveraging the use of overlaid information is also gaining supporters in
 Quality Control, using both HMDs and handheld IoT devices. Aerospace is one
@@ -50,7 +50,7 @@ integrating new technologies familiar to a younger demographic, manufacturers
 can experience a smoother on-boarding journey.
 
 ## 3. Improve employee training
-![speedUpCP](/assets/images/blog/220620/speedUpCP.webp)
+![speedUpCP](/assets/images/blog/220620/speedUpCP.jpg)
 
 Whether class-based or following study guides in the form of books and online
 courses, training sessions can now be enhanced or even replaced using mixed

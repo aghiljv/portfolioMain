@@ -2,12 +2,12 @@
 title: "Top features of Unreal Engine"
 description: "Article about benefits of using Unreal Engine."
 date: 2020-05-18
-image: /assets/images/blog/180520/unrealTitle.webp
+image: /assets/images/blog/180520/unrealTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -41,7 +41,7 @@ Even still, this is amazing for small companies and studios as well as for the
 students who are interested in a cutting-edge game engine.
 
 ## 2. Blueprints
-![blueprint](/assets/images/blog/180520/blueprint.webp)
+![blueprint](/assets/images/blog/180520/blueprint.jpg)
 
 Unreal Engine's visual scripting system, Blueprint, is the main reason the
 engine is a great tool for prototyping and iteration. You drag-and-drop nodes
@@ -50,7 +50,7 @@ interface allows designers who don't have a technical background to explore
 their ideas without needing to know how to code.
 
 ## 3. Broad Toolset
-![ueeditor](/assets/images/blog/180520/ueeditor.webp)
+![ueeditor](/assets/images/blog/180520/ueeditor.jpg)
 
 Unreal Engine's ease of use is also supported by a wide range of features and
 tools, within an intuitive editor that is accessible to many disciplines. It

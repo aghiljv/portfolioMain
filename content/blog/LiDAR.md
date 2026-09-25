@@ -2,12 +2,12 @@
 title: "LiDAR"
 description: "Light Detection and Ranging - Possibilities."
 date: 2021-01-17
-image: /assets/images/blog/180121/title.webp
+image: /assets/images/blog/180121/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

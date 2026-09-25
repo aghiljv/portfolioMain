@@ -2,12 +2,12 @@
 title: "ADAS"
 description: "About Advanced Driver Assistance Systems and its applications."
 date: 2021-01-01
-image: /assets/images/blog/040121/title.webp
+image: /assets/images/blog/040121/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

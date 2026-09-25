@@ -2,12 +2,12 @@
 title: "Brain Computer Interfaces"
 description: "A little about BCI's and its current state of affairs."
 date: 2020-12-13
-image: /assets/images/blog/141220/title.webp
+image: /assets/images/blog/141220/title.jpg
 minRead: 7
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

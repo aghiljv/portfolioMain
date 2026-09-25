@@ -2,12 +2,12 @@
 title: "Optimizing for Search Engines"
 description: "A look into how to do Search Engine Optimisation"
 date: 2023-10-23
-image: /assets/images/blog/231023/title.webp
+image: /assets/images/blog/231023/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -20,7 +20,7 @@ There are a number of things you can do to optimize your web application for SEO
 
 ## Use relevant keywords throughout your web application
 
-![keywords](/assets/images/blog/231023/keywords.webp)
+![keywords](/assets/images/blog/231023/keywords.jpg)
 
 Keywords are the words and phrases that people are likely to use when searching for your web application. When you
 choose keywords, it's important to think about what your target audience is looking for.
@@ -50,7 +50,7 @@ content.
 
 ## Make sure your web application is well-structured and easy to navigate
 
-![structure](/assets/images/blog/231023/structure.webp)
+![structure](/assets/images/blog/231023/structure.jpg)
 
 Search engines need to be able to crawl and index your web application in order to rank it in the SERPs. To make it
 easy for search engines to crawl and index your web application, you need to make sure that it is well-structured and
@@ -68,7 +68,7 @@ Some things to keep in mind while making your web application well-structured an
 
 ## Create high-quality content that is relevant to your target audience
 
-![audience](/assets/images/blog/231023/audience.webp)
+![audience](/assets/images/blog/231023/audience.jpg)
 
 Search engines want to deliver the best results to their users, so they're more likely to rank websites with
 high-quality content.
@@ -88,7 +88,7 @@ Follow these guidelines for creating high-quality content:
 
 ## Get backlinks from other high-quality websites
 
-![websites](/assets/images/blog/231023/websites.webp)
+![websites](/assets/images/blog/231023/websites.jpg)
 
 Backlinks are like votes of confidence from other websites. The more backlinks you have from high-quality websites,
 the higher your web application will rank in the SERPs.

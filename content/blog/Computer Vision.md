@@ -2,12 +2,12 @@
 title: "Computer Vision"
 description: "How does a computer see the world"
 date: 2020-11-29
-image: /assets/images/blog/301120/title.webp
+image: /assets/images/blog/301120/title.jpg
 minRead: 7
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -34,7 +34,7 @@ in the photo is much more difficult.
 
 Consider this picture.
 
-![flower](/assets/images/blog/301120/flower.webp)
+![flower](/assets/images/blog/301120/flower.jpg)
 
 A human brain can look at it and immediately know that it's a flower. Our
 brains are cheating since we've got a couple million years worth of
@@ -43,7 +43,7 @@ evolutionary context to help immediately understand what this is.
 But a computer doesn't have that same advantage. To an algorithm, the image
 looks like this.
 
-![flowerComputer](/assets/images/blog/301120/flowerComputer.webp)
+![flowerComputer](/assets/images/blog/301120/flowerComputer.jpg)
 
 Just a massive array of integer values which represent intensities across the
 colour spectrum. There's no context here, just a massive pile of data.
@@ -105,13 +105,13 @@ input and output data.
 For example, we train the RNN by passing it a sequence of frame descriptions -
 empty box, open box, closing box - and finally, a label - packing.
 
-![RNN](/assets/images/blog/301120/RNN.webp)
+![RNN](/assets/images/blog/301120/RNN.jpg)
 
 As the RNN processes each sequence, it uses a loss or error function to
 compare its predicted output with the correct label. Then it adjusts the
 weights and processes the sequence again until it achieves a higher accuracy.
 
-![wolf](/assets/images/blog/301120/wolf.webp)
+![wolf](/assets/images/blog/301120/wolf.jpg)
 
 The challenge of these approaches to image and video models, however, is that
 the amount of data we need to truly mimic human vision is incredibly large. If

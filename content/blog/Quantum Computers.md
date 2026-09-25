@@ -2,12 +2,12 @@
 title: "Quantum Computers"
 description: "What is a quantum computer and how is different from a traditional computer?"
 date: 2020-12-06
-image: /assets/images/blog/071220/title.webp
+image: /assets/images/blog/071220/title.jpg
 minRead: 6
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

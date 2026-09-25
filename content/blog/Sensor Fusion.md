@@ -2,12 +2,12 @@
 title: "Sensor Fusion"
 description: "The method and advantages of using multiple sensors together."
 date: 2021-03-21
-image: /assets/images/blog/220321/title.webp
+image: /assets/images/blog/220321/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

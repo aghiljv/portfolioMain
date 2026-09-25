@@ -2,12 +2,12 @@
 title: "How to choose components for a desktop PC on your own"
 description: "An article to help you choose the perfect components for your next PC build."
 date: 2020-06-29
-image: /assets/images/blog/290620/pcChoiceTitle.webp
+image: /assets/images/blog/290620/pcChoiceTitle.jpg
 minRead: 9
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -50,7 +50,7 @@ So, what are the key components on any PC builds?
 - Keyboard & Mouse
 
 ## Processor
-![case](/assets/images/blog/290620/case.webp)
+![case](/assets/images/blog/290620/case.jpg)
 
 This is the first component you have to choose when you are building a PC.
 Now, the big players out there are AMD and Intel. Both have their own areas
@@ -61,7 +61,7 @@ some might say, they even surpassed Intel on many grounds. Also, AMD provides
 good performance at cheaper costs compared to Intel.
 
 ## Motherboard
-![fans](/assets/images/blog/290620/fans.webp)
+![fans](/assets/images/blog/290620/fans.jpg)
 
 This is one of the primary components you want to choose. This component will
 dictate the physical form factor and size of your PC build. It will also
@@ -73,7 +73,7 @@ whether combining the power of multiple GPUs is an option, storage – how many
 and what type, etc.
 
 ## Memory (RAM)
-![gpu](/assets/images/blog/290620/gpu.webp)
+![gpu](/assets/images/blog/290620/gpu.jpg)
 
 Even long after your build, by adding more memory, you could give your PC a
 good performance boost. The latest technology is DDR4. You should keep in mind
@@ -87,7 +87,7 @@ components will be the bottleneck. As I said, try and reduce those
 bottlenecks.
 
 ## Storage
-![keymouse](/assets/images/blog/290620/keymouse.webp)
+![keymouse](/assets/images/blog/290620/keymouse.jpg)
 
 Your files and data are saved long-term on your storage device. Currently the
 two available choices – Hard Disk Drive (HDD) and Solid State Drive (SSD).
@@ -102,7 +102,7 @@ that your motherboard does have ports for SSDs. Almost all the motherboards do
 support HDDs.
 
 ## Graphics Card
-![monitor](/assets/images/blog/290620/monitor.webp)
+![monitor](/assets/images/blog/290620/monitor.jpg)
 
 There are various types and classes of GPUs out there now. The big players
 here are AMD and NVIDIA. When choosing your GPU, you have to understand what
@@ -120,7 +120,7 @@ the port version on the motherboard is older than that of the GPU, it will
 result in slower speeds than expected.
 
 ## Power Supply (PSU)
-![motherboard](/assets/images/blog/290620/motherboard.webp)
+![motherboard](/assets/images/blog/290620/motherboard.jpg)
 
 Undoubtedly, this is one of the most overlooked part while building a PC. You
 have to keep in mind the power requirement of every other component in your
@@ -132,7 +132,7 @@ efficiency. If you did not choose the PSU well, it might even cost you the
 whole build.
 
 ## Case
-![processor](/assets/images/blog/290620/processor.webp)
+![processor](/assets/images/blog/290620/processor.jpg)
 
 Nowadays there are a wide variety of choices for the cases. But you have to
 consider the size of your components before deciding on a model, especially
@@ -142,7 +142,7 @@ to make sure you have enough space to install extra fans in order t provide
 better cooling to your build.
 
 ## Fans and Coolers
-![psu](/assets/images/blog/290620/psu.webp)
+![psu](/assets/images/blog/290620/psu.jpg)
 
 When you are building a high-performance PC, the components are going to
 generate a good amount of heat. Most of the components cannot work beyond a
@@ -156,7 +156,7 @@ your components in an optimum temperature, which will not only result in
 higher performance, but also the longevity of them.
 
 ## Monitor/s
-![ram](/assets/images/blog/290620/ram.webp)
+![ram](/assets/images/blog/290620/ram.jpg)
 
 This should be a no-brainer. You must have a monitor. But now there are lot of
 choices out there. If you are a creator, it is better to go with a monitor
@@ -167,7 +167,7 @@ resolution and high refresh rate together. But they are much more costly and
 you also need costlier components to push that much data into the monitor.
 
 ## Keyboard & Mouse
-![storage](/assets/images/blog/290620/storage.webp)
+![storage](/assets/images/blog/290620/storage.jpg)
 
 There are lot of options for keyboard and mouse now. These components are
 unavoidable for the inputs. With the choices available, I think one should

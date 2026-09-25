@@ -2,12 +2,12 @@
 title: "Industry 4.0"
 description: "The fourth industrial revolution."
 date: 2020-11-15
-image: /assets/images/blog/161120/title.webp
+image: /assets/images/blog/161120/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

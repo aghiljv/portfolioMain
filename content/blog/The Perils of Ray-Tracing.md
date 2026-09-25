@@ -2,12 +2,12 @@
 title: "The Perils of Ray-Tracing"
 description: "There are certain perils for ray tracing among most of the advances it provides."
 date: 2020-08-17
-image: /assets/images/blog/170820/rtPerilsTitle.webp
+image: /assets/images/blog/170820/rtPerilsTitle.jpg
 minRead: 7
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

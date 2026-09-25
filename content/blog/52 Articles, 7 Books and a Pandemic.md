@@ -2,12 +2,12 @@
 title: "52 Articles, 7 Books and a Pandemic"
 description: "A year of blogs, reading and the pandemic."
 date: 2021-04-06
-image: /assets/images/blog/060421/title.webp
+image: /assets/images/blog/060421/title.jpg
 minRead: 7
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -53,7 +53,7 @@ option for that as well.
 And just like that [AghilJose.com](https://aghiljose.com) came to existence and my [personal blog](https://aghiljose.com/blog) - which has all
 the articles that I publish here on LinkedIn.
 
-![pcpic](/assets/images/blog/060421/pcpic.webp)
+![pcpic](/assets/images/blog/060421/pcpic.jpg)
 
 ## Assembling a custom PC.
 
@@ -64,7 +64,7 @@ build, by somebody else. Now, I had time (a lot of it) and money to do so.
 So as a result of a month long research and help, I was able to buy necessary components and build my desktop PC
 myself.
 
-![site](/assets/images/blog/060421/site.webp)
+![site](/assets/images/blog/060421/site.jpg)
 
 ## Learning
 
@@ -121,7 +121,7 @@ something new whenever possible and better ourselves gradually. Everybody has th
 And when finally when the lock-downs were over and it was relatively safe to go out, I was lucky to go on some short
 trips with my friends as well.
 
-![treesandlake](/assets/images/blog/060421/treesandlake.webp)
+![treesandlake](/assets/images/blog/060421/treesandlake.jpg)
 
 ## The pandemic is still not over and we still cannot let our guard down. So, until things get back to what it was
 

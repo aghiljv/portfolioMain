@@ -2,12 +2,12 @@
 title: "Virtual Reality Advantages"
 description: "The advatages of implementing Virtual Reality."
 date: 2020-07-13
-image: /assets/images/blog/130720/VRadvTitle.webp
+image: /assets/images/blog/130720/VRadvTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

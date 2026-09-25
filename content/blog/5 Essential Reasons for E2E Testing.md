@@ -2,12 +2,12 @@
 title: "5 Essential Reasons for E2E Testing"
 description: "An article to inspire you to perform End to End Testing in application."
 date: 2020-04-04
-image: /assets/images/blog/060420/e2e.webp
+image: /assets/images/blog/060420/e2e.jpg
 minRead: 2
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

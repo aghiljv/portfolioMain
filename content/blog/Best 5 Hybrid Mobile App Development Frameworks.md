@@ -2,12 +2,12 @@
 title: "Best 5 Hybrid Mobile App Development Frameworks"
 description: "An article regarding the prominent hybrid mobile application development tools."
 date: 2020-06-08
-image: /assets/images/blog/080620/hybridTitle.webp
+image: /assets/images/blog/080620/hybridTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -26,7 +26,7 @@ opinion.
 
 ## 1. Flutter
 
-![flutter](/assets/images/blog/080620/flutter.webp)
+![flutter](/assets/images/blog/080620/flutter.jpg)
 
 Flutter was launched by Google in 2017 and is among the top contenders in the
 industry. It is used to produce native-looking products for various operating
@@ -44,7 +44,7 @@ systems.
 
 ## 2. React Native
 
-![ionic](/assets/images/blog/080620/ionic.webp)
+![ionic](/assets/images/blog/080620/ionic.jpg)
 
 React Native brings with it, the features of JavaScript and React. It is also
 preferred for native application development and is able to give flutter a run
@@ -62,7 +62,7 @@ for their money.
 
 ## 3. Ionic
 
-![jQueryMobile](/assets/images/blog/080620/jQueryMobile.webp)
+![jQueryMobile](/assets/images/blog/080620/jQueryMobile.jpg)
 
 This platform is based on CSS and reaches its maximum potential when used
 jointly with AngularJS.
@@ -79,7 +79,7 @@ jointly with AngularJS.
 
 ## 4. jQuery Mobile
 
-![reactNative](/assets/images/blog/080620/reactNative.webp)
+![reactNative](/assets/images/blog/080620/reactNative.jpg)
 
 This one does not try to adopt a native look. It keeps its individuality while
 working flawlessly in various platforms. It is a great choice if you want to
@@ -97,7 +97,7 @@ create something exceptional instead of sticking to template designs.
 
 ## 5. Xamarin
 
-![xamarin](/assets/images/blog/080620/xamarin.webp)
+![xamarin](/assets/images/blog/080620/xamarin.jpg)
 
 Xamarin does have a good track record as well as a large community of
 satisfied followers. This framework allows you to create universal apps and

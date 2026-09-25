@@ -2,12 +2,12 @@
 title: "Micro Frontends - A Modern Approach to Front-End Development"
 description: "A peep into the world of micro front-ends"
 date: 2023-09-24
-image: /assets/images/blog/240923/title.webp
+image: /assets/images/blog/240923/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

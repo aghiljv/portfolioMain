@@ -2,12 +2,12 @@
 title: "5 Things to motivate you to perform Unit Testing"
 description: "An article that describes the reasons to do Unit Testing."
 date: 2020-04-13
-image: /assets/images/blog/130420/unit.webp
+image: /assets/images/blog/130420/unit.jpg
 minRead: 3
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

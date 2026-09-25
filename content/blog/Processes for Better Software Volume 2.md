@@ -2,12 +2,12 @@
 title: "Processes for Better Software Volume 2"
 description: "Best practices for software engineers continued."
 date: 2020-09-02
-image: /assets/images/blog/020920/process2Title.webp
+image: /assets/images/blog/020920/process2Title.jpg
 minRead: 3
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -19,7 +19,7 @@ most of them could be avoided if we implement the so called good practices
 into the software development life-cycle.
 
 ## 1. Accurate understanding of end-user needs
-![correctFirst](/assets/images/blog/020920/correctFirst.webp)
+![correctFirst](/assets/images/blog/020920/correctFirst.jpg)
 
 No matter you are making software as a product or for a client, you have to
 have a clear understanding of the end-user needs. Significant man hours have
@@ -30,7 +30,7 @@ statement first-hand. Then and only then we could try and solve the problem
 more efficiently.
 
 ## 2. Taking it slow
-![refactor](/assets/images/blog/020920/refactor.webp)
+![refactor](/assets/images/blog/020920/refactor.jpg)
 
 “Slow and steady wins the race”. Sure, you could actually make the software
 development process much faster, but usually at the expense of compromising
@@ -40,7 +40,7 @@ could save the time and resources while building it in the first place. But,
 when (not if) it comes back with bugs, it will cost you more of both.
 
 ## 3. Refactor
-![slow](/assets/images/blog/020920/slow.webp)
+![slow](/assets/images/blog/020920/slow.jpg)
 
 There is usually the need to upgrade and maintain a software as time goes on.
 Whenever you see the need and have the chance do not hesitate to refactor the
@@ -48,14 +48,14 @@ code. Refactoring will usually help create a code base with increased
 readability, smooth execution, less bugs and higher performance.
 
 ## 4. Make code correct first and fast second
-![userNeeds](/assets/images/blog/020920/userNeeds.webp)
+![userNeeds](/assets/images/blog/020920/userNeeds.jpg)
 
 Your primary focus should always be achieving the desired functionality. It
 doesn’t matter how better the design or how fast the response is, if it cannot
 produce appropriate output, that software is useless and a liability.
 
 ## 5. Using version control
-![versionControl](/assets/images/blog/020920/versionControl.webp)
+![versionControl](/assets/images/blog/020920/versionControl.jpg)
 
 Do not wait for the software to grow beyond a certain size to incorporate
 version control applications such as GitHub or bitbucket. It is always a good

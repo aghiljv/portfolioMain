@@ -2,12 +2,12 @@
 title: "2020 - The best Javascript Frameworks"
 description: "Some of the best available JavaScript to work with in 2020."
 date: 2020-05-04
-image: /assets/images/blog/040520/jsframeworks.webp
+image: /assets/images/blog/040520/jsframeworks.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

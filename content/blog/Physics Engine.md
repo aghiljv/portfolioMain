@@ -2,12 +2,12 @@
 title: "Physics Engine"
 description: "How do physics engines help create a better experience for games and simulations."
 date: 2021-02-12
-image: /assets/images/blog/150221/title.webp
+image: /assets/images/blog/150221/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

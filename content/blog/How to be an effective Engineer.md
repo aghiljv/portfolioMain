@@ -2,12 +2,12 @@
 title: "How to be an effective Engineer?"
 description: "The necessary skills needed for any software engineer."
 date: 2020-09-28
-image: /assets/images/blog/280920/eeTitle.webp
+image: /assets/images/blog/280920/eeTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -20,7 +20,7 @@ specific. But there are somethings that so many agree upon which could be
 applied by pretty much every one in the industry.
 
 ## 1. Analysis of scenarios
-![analysis](/assets/images/blog/280920/analysis.webp)
+![analysis](/assets/images/blog/280920/analysis.jpg)
 
 The ability to consider many different scenarios is a must have trait for any
 good engineer. This applies both to the internal and external events that can
@@ -41,7 +41,7 @@ logic.
 - What happens if the argument is null? Etc.
 
 ## 2. Problem Decomposition
-![consistency](/assets/images/blog/280920/consistency.webp)
+![consistency](/assets/images/blog/280920/consistency.jpg)
 
 Software is primarily about solving problems. So, before we start writing
 code, we need to be clear on how to solve the problem. The ability to break
@@ -51,7 +51,7 @@ such a way that the resulting program is easy to reason about, easy to
 implement and test.
 
 ## 3. Naming
-![learning](/assets/images/blog/280920/learning.webp)
+![learning](/assets/images/blog/280920/learning.jpg)
 
 Properly naming classes, methods, functions and variables goes a long way.
 When done well, the software becomes self-documenting. That is, the function
@@ -64,7 +64,7 @@ each name represents. Sometimes that might change during the development
 process. That is why renaming is just as important as naming.
 
 ## 4. Consistency
-![naming](/assets/images/blog/280920/naming.webp)
+![naming](/assets/images/blog/280920/naming.jpg)
 
 Managing complexity is undoubtedly one of the biggest challenges in software
 development. Consistency is key here. It reduces some of the complexity by
@@ -80,7 +80,7 @@ Good engineers always ensure that even the small parts are right and the
 consistency is kept while modification.
 
 ## 5. Learning
-![problem](/assets/images/blog/280920/problem.webp)
+![problem](/assets/images/blog/280920/problem.jpg)
 
 We are constantly learning as a software engineer. We have to understand what
 a feature is supposed to do before adding it. It goes without saying prior to

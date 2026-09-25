@@ -2,12 +2,12 @@
 title: "Processes for Better Software Volume 3"
 description: "Best practices for software engineers."
 date: 2020-11-01
-image: /assets/images/blog/021120/title.webp
+image: /assets/images/blog/021120/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

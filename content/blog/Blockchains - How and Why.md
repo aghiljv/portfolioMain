@@ -2,12 +2,12 @@
 title: "Blockchains - How and Why?"
 description: "The basic structure and functioning of the blockchains."
 date: 2020-11-22
-image: /assets/images/blog/221120/title.webp
+image: /assets/images/blog/221120/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

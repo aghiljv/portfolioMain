@@ -2,12 +2,12 @@
 title: "Ambient Intelligence"
 description: "A small introduction to the developing concept of Ambient Intelligence."
 date: 2021-03-07
-image: /assets/images/blog/080321/title.webp
+image: /assets/images/blog/080321/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

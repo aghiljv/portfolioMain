@@ -2,12 +2,12 @@
 title: "WebAssembly and Progressive Web Apps"
 description: "Progressive Web Apps (PWAs) and WebAssembly"
 date: 2023-09-17
-image: /assets/images/blog/170923/title.webp
+image: /assets/images/blog/170923/title.jpg
 minRead: 3
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

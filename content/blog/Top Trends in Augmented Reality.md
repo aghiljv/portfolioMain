@@ -2,12 +2,12 @@
 title: "Top Trends in Augmented Reality"
 description: "An overview of the trends associated with Augmented Reality."
 date: 2020-06-01
-image: /assets/images/blog/010620/arTitle.webp
+image: /assets/images/blog/010620/arTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -17,7 +17,7 @@ support is definitely strong for AR. The installed user base for AR, this time
 last year was over 1 billion which is only going to go north.
 
 ## 1. Automotive Industry
-![arAutomotive](/assets/images/blog/010620/arAutomotive.webp)
+![arAutomotive](/assets/images/blog/010620/arAutomotive.jpg)
 
 Heads-up displays have been a fixture in military aerospace for decades, but
 AR is only now beginning to bring that potential to the automotive world. This
@@ -31,7 +31,7 @@ Designing, Planning, Testing, Quality Assurance, etc. are some of the areas
 that could easily adopt the benefits and it surely doesn't stop there.
 
 ## 2. Mobile AR
-![arMobile](/assets/images/blog/010620/arMobile.webp)
+![arMobile](/assets/images/blog/010620/arMobile.jpg)
 
 Since the introduction of Google’s ARCore and Apple’s ARKit Software
 Development Kits in 2017 has standardized the development tools. This played a
@@ -43,7 +43,7 @@ competition for dominance can only benefit the developers and undoubtedly the
 end users.
 
 ## 3. WebAR
-![arNavigation](/assets/images/blog/010620/arNavigation.webp)
+![arNavigation](/assets/images/blog/010620/arNavigation.jpg)
 
 Instead of needing to use specialized apps, users can simply log on to
 AR-enabled websites to access the same level of functionality. Google and
@@ -52,7 +52,7 @@ Firefox respectively, though the prior is far ahead. Apple, Samsung and
 Microsoft web browser offerings are also rapidly adopting the WebAR standards.
 
 ## 4. Shopping
-![arShopping](/assets/images/blog/010620/arShopping.webp)
+![arShopping](/assets/images/blog/010620/arShopping.jpg)
 
 At least 100 million users were expected to utilize AR-enabled shopping by
 2020, according to a report from Gartner. The increase in the number of
@@ -67,7 +67,7 @@ the new social distancing norms. Virtual assistants will also significantly
 change the shopping experience.
 
 ## 5. Navigation
-![arWeb](/assets/images/blog/010620/arWeb.webp)
+![arWeb](/assets/images/blog/010620/arWeb.jpg)
 
 This is the obvious one. AR can not only be used for heads up displays in
 automobiles, but also can make a significant contribution to indoor

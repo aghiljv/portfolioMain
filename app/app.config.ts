@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: '/assets/images/about.webp',
-      light: '/assets/images/about.webp',
+      dark: '/assets/images/about.jpg',
+      light: '/assets/images/about.jpg',
       alt: 'My profile picture'
     },
     meetingLink: 'https://cal.com/aghiljosecareer/15min',

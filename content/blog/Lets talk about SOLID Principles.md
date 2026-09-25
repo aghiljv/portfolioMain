@@ -2,12 +2,12 @@
 title: "Let's talk about SOLID Principles"
 description: "A brief explanation of the SOLID design principles by Uncle Bob."
 date: 2020-11-08
-image: /assets/images/blog/091120/title.webp
+image: /assets/images/blog/091120/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

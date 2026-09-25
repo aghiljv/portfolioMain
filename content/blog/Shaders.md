@@ -2,12 +2,12 @@
 title: "Shaders"
 description: "Why do we need shaders and what types of shaders are out there."
 date: 2021-02-07
-image: /assets/images/blog/080221/title.webp
+image: /assets/images/blog/080221/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

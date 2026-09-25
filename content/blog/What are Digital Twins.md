@@ -2,12 +2,12 @@
 title: "What are Digital Twins?"
 description: "A brief introduction to digital twins."
 date: 2020-10-25
-image: /assets/images/blog/261020/title.webp
+image: /assets/images/blog/261020/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -24,7 +24,7 @@ Done correctly, a digital twin will influence how design, build and operations
 of a device are constructed in a single life-cycle.
 
 ## Design
-![analytics](/assets/images/blog/261020/analytics.webp)
+![analytics](/assets/images/blog/261020/analytics.jpg)
 
 The design phase is where the engineering tooling comes together, bringing
 together physical elements, physical bill of materials and pulling together
@@ -34,7 +34,7 @@ facility of operational oriented design that is designed to bring out the
 highest quality product.
 
 ## Build
-![build](/assets/images/blog/261020/build.webp)
+![build](/assets/images/blog/261020/build.jpg)
 
 In the build phase, it is about understanding how the devices that make the
 product influence the product’s tolerances, stresses and designs. It’s about
@@ -42,7 +42,7 @@ better manufacturing to drive the correct tolerances and correct outcomes that
 you want to see for the product that you are actually making.
 
 ## Operations
-![data](/assets/images/blog/261020/data.webp)
+![data](/assets/images/blog/261020/data.jpg)
 
 The digital twin facilitates the actual operation of the product as well.
 Product’s age, different environments the products go through – they deal with
@@ -55,7 +55,7 @@ learned and the re-calibrations takes place along the way.
 Now, there are essential capabilities that must be present in a digital twin.
 
 ## Analytics
-![design](/assets/images/blog/261020/design.webp)
+![design](/assets/images/blog/261020/design.jpg)
 
 First, you have to apply analytics at every single step. The amount of
 information that we are dealing with to ply digital twin to a small device or
@@ -64,7 +64,7 @@ Analytics has to be real-time, but has to be operational, has to have quality,
 it has to be predictive oriented in its nature.
 
 ## Open and Federated Data
-![industry](/assets/images/blog/261020/industry.webp)
+![industry](/assets/images/blog/261020/industry.jpg)
 
 The data that comes from the digital twin need to be open, you have to be able
 to access it for a variety of different sources, you have to be able to pull
@@ -76,7 +76,7 @@ build and the operation phase of what you do with the life-cycle of that
 product.
 
 ## Industry Context
-![operations](/assets/images/blog/261020/operations.webp)
+![operations](/assets/images/blog/261020/operations.jpg)
 
 You may actually use the same product differently in two different industries
 and have two different digital twins for that one product based on how the

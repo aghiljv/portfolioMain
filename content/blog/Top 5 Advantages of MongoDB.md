@@ -2,12 +2,12 @@
 title: "Top 5 Advantages of MongoDB"
 description: "An article regarding the advantages of MongoDB."
 date: 2020-04-27
-image: /assets/images/blog/270420/mongodb.webp
+image: /assets/images/blog/270420/mongodb.jpg
 minRead: 3
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -16,7 +16,7 @@ environment. It is a cross-platform, document-oriented and non-structured
 database.
 
 ## 1. Flexible Database
-![adhoc](/assets/images/blog/270420/adhoc.webp)
+![adhoc](/assets/images/blog/270420/adhoc.jpg)
 
 MongoDB stores data in flexible JSON-like documents, which makes data
 persistence and combining easy. The objects in your application code is mapped
@@ -27,7 +27,7 @@ one can modify the schema dynamically. Due to this flexibility, a developer
 needs to worry less about data manipulation.
 
 ## 2. High Speed
-![pencil](/assets/images/blog/270420/pencil.webp)
+![pencil](/assets/images/blog/270420/pencil.jpg)
 
 A flexible data model with dynamic schema and with powerful GUI and command
 line tools, makes it fast for developers to build and evolve applications.
@@ -48,7 +48,7 @@ native application to maintain multiple copies of data. Preventing database
 downtime is one of the replica set’s features as it has self-healing shard.
 
 ## 4. Scalability
-![shard](/assets/images/blog/270420/shard.webp)
+![shard](/assets/images/blog/270420/shard.jpg)
 
 With the ever evolving needs of businesses, their database systems also needed
 to be upgraded. A great advantage of MongoDB is that it is a horizontally
@@ -57,7 +57,7 @@ and automatic integration. When you have to handle a large data, you can
 distribute it to several machines.
 
 ## 5. Ad-hoc Query Support
-![speed](/assets/images/blog/270420/speed.webp)
+![speed](/assets/images/blog/270420/speed.jpg)
 
 Generally, when we design a schema of a database, we don’t know in advance
 about the queries we will perform. Ad-hoc queries are the queries not known

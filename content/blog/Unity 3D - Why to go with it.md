@@ -2,12 +2,12 @@
 title: "Unity 3D - Why to go with it?"
 description: "An article featuring the top features of Unity 3D that makes it stand out from the crowd."
 date: 2020-05-11
-image: /assets/images/blog/110520/unitytitle.webp
+image: /assets/images/blog/110520/unitytitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -37,7 +37,7 @@ So, here is what I think that are the reasons for someone to consider to
 choose Unity 3D for their particular set of requirements.
 
 ## 1. Cross Platform
-![documentation](/assets/images/blog/110520/documentation.webp)
+![documentation](/assets/images/blog/110520/documentation.jpg)
 
 One of the biggest advantages of using Unity3D is you are not confined to a
 single platform. The games you make can be rendered to be used on over 25
@@ -46,7 +46,7 @@ Imagine to code and develop for once and run it on all the top platforms out
 there. That is the power Unity 3D provides you.
 
 ## 2. Documentation
-![editor](/assets/images/blog/110520/editor.webp)
+![editor](/assets/images/blog/110520/editor.jpg)
 
 For developers that are just starting out, documentations are easy to
 understand. Unity 3D does provide that and in detail. It includes explanation
@@ -62,7 +62,7 @@ the code as per your liking and can see the results instantly. You can even
 cruise through your game frame by frame and pinpoint the problems.
 
 ## 4. All-in-one Editor
-![platforms](/assets/images/blog/110520/platforms.webp)
+![platforms](/assets/images/blog/110520/platforms.jpg)
 
 Loaded with features and with tremendous flexibility, it comes with a powerful
 and easy-to-use editor which is a complete package in itself. With features

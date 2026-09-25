@@ -2,12 +2,12 @@
 title: "Extended Reality Simplified"
 description: "Extended Reality Explained."
 date: 2020-08-10
-image: /assets/images/blog/100820/exRealtitle.webp
+image: /assets/images/blog/100820/exRealtitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -31,7 +31,7 @@ the next five years. To get a better picture of XR, let’s review each of the
 existing technologies that exist today.
 
 ## Virtual reality (VR)
-![arXr](/assets/images/blog/100820/arXr.webp)
+![arXr](/assets/images/blog/100820/arXr.jpg)
 
 In virtual reality, users are fully immersed in a simulated digital
 environment. Individuals must put on a VR headset or head-mounted display to
@@ -43,7 +43,7 @@ companies in several industries such as healthcare, construction, engineering,
 the military, and more are finding VR to be very useful.
 
 ## Augmented reality (AR)
-![mrXr](/assets/images/blog/100820/mrXr.webp)
+![mrXr](/assets/images/blog/100820/mrXr.jpg)
 
 In augmented reality, virtual information and objects are overlaid on the real
 world. This experience enhances the real world with digital details such as
@@ -55,7 +55,7 @@ digital creatures onto the real world or Snapchat filters that put digital
 objects such as hats or glasses onto your head.
 
 ## Mixed reality (MR)
-![vrXr](/assets/images/blog/100820/vrXr.webp)
+![vrXr](/assets/images/blog/100820/vrXr.jpg)
 
 In mixed reality, digital and real-world objects co-exist and can interact
 with one another in real-time. This is the latest immersive technology and is

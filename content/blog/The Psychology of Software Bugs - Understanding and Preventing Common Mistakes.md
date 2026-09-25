@@ -2,12 +2,12 @@
 title: "The Psychology of Software Bugs Understanding and Preventing Common Mistakes"
 description: "Understanding and preventing bugs in the software"
 date: 2023-09-02
-image: /assets/images/blog/020923/title.webp
+image: /assets/images/blog/020923/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

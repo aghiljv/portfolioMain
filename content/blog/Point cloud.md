@@ -2,12 +2,12 @@
 title: "Point cloud"
 description: "About the point cloud and what are its uses."
 date: 2021-01-24
-image: /assets/images/blog/250121/title.webp
+image: /assets/images/blog/250121/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

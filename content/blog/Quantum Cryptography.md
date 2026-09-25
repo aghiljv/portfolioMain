@@ -2,12 +2,12 @@
 title: "Quantum Cryptography"
 description: "The need for quantum cryptography at the impending dawn of quantum computing."
 date: 2021-02-26
-image: /assets/images/blog/010321/title.webp
+image: /assets/images/blog/010321/title.jpg
 minRead: 7
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

@@ -2,12 +2,12 @@
 title: "Cryptography"
 description: "What is cryptography and why do we need it now more than ever."
 date: 2021-02-21
-image: /assets/images/blog/220221/title.webp
+image: /assets/images/blog/220221/title.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

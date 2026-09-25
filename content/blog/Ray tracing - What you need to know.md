@@ -2,12 +2,12 @@
 title: "Ray tracing - What you need to know"
 description: "Explaining Ray tracing."
 date: 2020-07-20
-image: /assets/images/blog/200720/rayTracingTitle.webp
+image: /assets/images/blog/200720/rayTracingTitle.jpg
 minRead: 3
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -31,7 +31,7 @@ lighting effects. An algorithm can trace the path of light and simulate the
 way the light interacts with the virtual objects it hits in the computer
 generated world.
 
-![control](/assets/images/blog/200720/control.webp)
+![control](/assets/images/blog/200720/control.jpg)
 
 The lighting effects in games have been becoming more and more realistic over
 the years. But, the benefits of ray tracing are much more about how it

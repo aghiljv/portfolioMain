@@ -2,12 +2,12 @@
 title: "Why we need User Experience Design?"
 description: "The importance of User Experience Design in the development process"
 date: 2023-10-15
-image: /assets/images/blog/151023/title.webp
+image: /assets/images/blog/151023/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -16,7 +16,7 @@ so hard to miss, but what exactly does it mean? Also, why is it so crucial in th
 
 ## What Is UX Design?
 
-![process](/assets/images/blog/151023/process.webp)
+![process](/assets/images/blog/151023/process.jpg)
 
 Simply put, User Experience Design is all about creating products, like software, that provide meaningful and
 relevant experiences to users. It is not just about how a program looks. It's about how it works and how it makes
@@ -60,7 +60,7 @@ increased user engagement, higher conversion rates and ultimately, success for y
 
 ## The UX Design Process
 
-![whatis](/assets/images/blog/151023/whatis.webp)
+![whatis](/assets/images/blog/151023/whatis.jpg)
 
 UX design isn't a one-size-fits-all process. It involves a series of stages, including user research, information
 architecture, wireframing, prototyping and testing. These steps help ensure that the end product aligns with user

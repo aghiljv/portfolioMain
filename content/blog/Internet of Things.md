@@ -2,12 +2,12 @@
 title: "Internet of Things"
 description: "A brief introduction to Internet of Things or IoT."
 date: 2020-12-27
-image: /assets/images/blog/281220/title.webp
+image: /assets/images/blog/281220/title.jpg
 minRead: 6
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

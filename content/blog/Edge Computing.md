@@ -2,12 +2,12 @@
 title: "Edge Computing"
 description: "Edge computing - need and advantages."
 date: 2020-12-20
-image: /assets/images/blog/211220/title.webp
+image: /assets/images/blog/211220/title.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -32,7 +32,7 @@ sometimes the latency, wouldn’t enable the technology to take off.
 There are lot of use cases for edge computing. Some of them are starting to be
 in use today.
 
-![autonomousCar](/assets/images/blog/211220/autonomousCar.webp)
+![autonomousCar](/assets/images/blog/211220/autonomousCar.jpg)
 
 For example, in autonomous driving. Even on a car that you buy today, there
 are sensors all over that can tell you when you are backing up, when you are
@@ -49,14 +49,14 @@ dangerous situation.
 So, having built in an edge device in to your autonomous vehicle will help
 make sure the vehicle is getting the updates that it needs.
 
-![factory](/assets/images/blog/211220/factory.webp)
+![factory](/assets/images/blog/211220/factory.jpg)
 
 In factories today, we are starting to see people use these types of edge
 devices where it can help predict if a device or a machine is going to start
 to see failure. It can start to see anomalies in how the work is getting done
 or how a piece of an apparel is getting made.
 
-![jet](/assets/images/blog/211220/jet.webp)
+![jet](/assets/images/blog/211220/jet.jpg)
 
 Jet engines do this as well. They are examples of where you can use these
 types of sensors where you need to gather the feedback and monitor the

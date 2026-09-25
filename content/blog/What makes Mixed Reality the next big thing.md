@@ -2,12 +2,12 @@
 title: "What makes Mixed Reality the next big thing?"
 description: "Which areas can benefit from the use of Mixed Reality."
 date: 2020-05-25
-image: /assets/images/blog/250520/mrTitle.webp
+image: /assets/images/blog/250520/mrTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -20,12 +20,12 @@ The user could interact and manipulate the objects. If you achieve all of the
 above(and much more), you are in the Mixed Reality. One could say that Mixed
 Reality or MR is Augmented Reality(AR) on steroids.
 
-![mr_AMMXS](/assets/images/blog/250520/mr_AMMXS.webp)
+![mr_AMMXS](/assets/images/blog/250520/mr_AMMXS.jpg)
 
 So, where can we make use of the fairly new mixed reality.
 
 ## 1. Automotive
-![mr_architecture](/assets/images/blog/250520/mr_architecture.webp)
+![mr_architecture](/assets/images/blog/250520/mr_architecture.jpg)
 
 The leaders in automotive industry have been embracing the digital for a while
 now and mixed reality is no exception. As it happens, it holds a predominant
@@ -35,7 +35,7 @@ etc. are some of its applications in the industry. It could also be used in
 training as well as implementing standard operating procedure.
 
 ## 2. Architecture
-![mr_automotive](/assets/images/blog/250520/mr_automotive.webp)
+![mr_automotive](/assets/images/blog/250520/mr_automotive.jpg)
 
 The architecture industry is no stranger to high fidelity 3D application. But
 the applications have been limited to design and planning for a long time. Not
@@ -46,7 +46,7 @@ workers to implement the plans down to the detail with almost nothing lost in
 translation.
 
 ## 3. Medicine
-![mr_education](/assets/images/blog/250520/mr_education.webp)
+![mr_education](/assets/images/blog/250520/mr_education.jpg)
 
 This should be a given and with the current circumstances, mixed reality could
 do much more for this field. From training the students about the anatomy, to
@@ -55,7 +55,7 @@ vitals of patients during procedures, the applications can be virtually
 endless.
 
 ## 4. Education
-![mr_gaming](/assets/images/blog/250520/mr_gaming.webp)
+![mr_gaming](/assets/images/blog/250520/mr_gaming.jpg)
 
 Mixed reality can be complementing the standard curriculum. Graphics, video
 and audio can be included into a student’s environment. The ability to see and
@@ -65,7 +65,7 @@ and learning much more details of the events and the area which they took
 place.
 
 ## 5. Gaming
-![mr_medicine](/assets/images/blog/250520/mr_medicine.webp)
+![mr_medicine](/assets/images/blog/250520/mr_medicine.jpg)
 
 The inevitable! The gaming industry is usually the first to adopt every
 upcoming technologies such as Virtual Reality (VR), Augmented Reality (AR),

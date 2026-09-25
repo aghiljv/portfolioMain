@@ -1,7 +1,7 @@
 {
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "always"
+        "source.fixAll.eslint": "explicit"
     },
     "eslint.validate": [
         "javascript",
@@ -23,6 +23,6 @@
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
     "[vue]": {
-        "editor.defaultFormatter": "Vue.volar"
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     }
 }

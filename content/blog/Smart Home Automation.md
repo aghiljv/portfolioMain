@@ -2,12 +2,12 @@
 title: "Smart Home Automation"
 description: "What are smart homes and how they can make our lives better."
 date: 2021-01-31
-image: /assets/images/blog/010221/title.webp
+image: /assets/images/blog/010221/title.jpg
 minRead: 6
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 

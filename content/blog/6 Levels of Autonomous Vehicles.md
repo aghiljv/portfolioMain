@@ -2,12 +2,12 @@
 title: "6 Levels of Autonomous Vehicles"
 description: "An article describing the levels involved in autonomous driving."
 date: 2020-06-15
-image: /assets/images/blog/150620/adLevelTitle.webp
+image: /assets/images/blog/150620/adLevelTitle.jpg
 minRead: 4
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -49,7 +49,7 @@ Autopilot, Volvo Pilot Assist, Audi Traffic Jam assist are some examples.
 
 ## 4. Level 3 – Conditional Automation
 
-![level3](/assets/images/blog/150620/level3.webp)
+![level3](/assets/images/blog/150620/level3.jpg)
 
 This is the level that is going to be available to the general public.
 Currently only Tesla and Mercedes-Benz holds the approval for the same. These
@@ -61,7 +61,7 @@ present.
 
 ## 5. Level 4 – High Automation
 
-![level4](/assets/images/blog/150620/level4.webp)
+![level4](/assets/images/blog/150620/level4.jpg)
 
 Level 4 autonomous vehicles can drive themselves without human interactions.
 Yes, the passenger still need to enter the destination. The level 4 will still
@@ -74,7 +74,7 @@ environments and road conditions.
 
 ## 6. Level 5 – Full Automation
 
-![level5](/assets/images/blog/150620/level5.webp)
+![level5](/assets/images/blog/150620/level5.jpg)
 
 In this level, we arrive at true driverless cars. Level 5 vehicles should be
 able to monitor and manoeuvre through all road conditions and require no human
@@ -84,7 +84,7 @@ your very own K.I.T.T from Knight Rider (1982).
 
 Below are the status of some OEMs on the autonomous field:
 
-![status](/assets/images/blog/150620/status.webp)
+![status](/assets/images/blog/150620/status.jpg)
 
 Due to regulations, legal battles and the technology Level 5 vehicles are
 probably still many years away.

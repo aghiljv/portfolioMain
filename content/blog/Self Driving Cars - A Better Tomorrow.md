@@ -2,12 +2,12 @@
 title: "Self Driving Cars - A Better Tomorrow"
 description: "How self driving cars might help us create a better future."
 date: 2020-08-03
-image: /assets/images/blog/030820/selfDriveTitle.webp
+image: /assets/images/blog/030820/selfDriveTitle.jpg
 minRead: 5
 author:
   name: Aghil Jose
   avatar:
-    src: /assets/images/about.webp
+    src: /assets/images/about.jpg
     alt: Aghil Jose
 ---
 
@@ -21,7 +21,7 @@ improve our world and make everyday life that little bit easier. Here are five
 ways I think society will benefit from autonomous cars.
 
 ## 1. Easier Parking
-![commute](/assets/images/blog/030820/commute.webp)
+![commute](/assets/images/blog/030820/commute.jpg)
 
 It's also hoped that autonomous vehicles will improve parking in congested
 cities because driverless vehicles could simply drop passengers off and move
@@ -38,7 +38,7 @@ may no longer be flanked by huge, ugly car parks, and will instead favour
 dedicated areas for drop-offs and pick-ups.
 
 ## 2. Emission Reduction
-![domesticTravel](/assets/images/blog/030820/domesticTravel.webp)
+![domesticTravel](/assets/images/blog/030820/domesticTravel.jpg)
 
 In the future, with the majority of self-driving vehicles being electric or
 hybrids, and given the fact that autonomous vehicles drive more efficiently
@@ -56,7 +56,7 @@ ownership if we’re to reap the full environmental benefits of autonomous
 vehicles.
 
 ## 3. Cutting domestic air travel
-![emission](/assets/images/blog/030820/emission.webp)
+![emission](/assets/images/blog/030820/emission.jpg)
 
 Volvo’s 360c concept car, which was unveiled in 2018, provides a glimpse of a
 future in which self-driving cars are no longer just cars – they're places to
@@ -72,7 +72,7 @@ could be made overnight, this vision could seriously disrupt the travel
 industry – and cut the carbon footprint associated with travel.
 
 ## 4. Making our roads safer
-![parking](/assets/images/blog/030820/parking.webp)
+![parking](/assets/images/blog/030820/parking.jpg)
 
 While there have been some high-profile cases of autonomous vehicles being
 involved in tragic fatal accidents, data suggests that self-driving cars will
