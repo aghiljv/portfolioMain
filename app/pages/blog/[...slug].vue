@@ -68,12 +68,7 @@ const formatDate = (dateString: string) => {
               {{ page.minRead }} MIN READ
             </span>
           </div>
-          <NuxtImg
-            v-if="page.image"
-            :src="page.image"
-            :alt="page.title"
-            class="rounded-lg w-full h-[300px] object-cover object-center"
-          />
+          <img :src="page.image" :alt="page.title" class="rounded-lg w-full h-[300px] object-cover object-center">
           <h1 class="text-4xl text-center font-medium max-w-3xl mx-auto mt-4">
             {{ page.title }}
           </h1>
