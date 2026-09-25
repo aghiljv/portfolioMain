@@ -84,18 +84,18 @@ defineOgImage('Portfolio', { title, description })
               <time
                 v-if="post.date"
                 :datetime="post.date"
-                class="text-xs text-muted-foreground font-medium"
+                class="text-xs  font-medium"
               >
                 {{ new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) }}
               </time>
 
-              <h2 class="text-xl md:text-2xl font-bold tracking-tight text-foreground group-hover:text-primary transition-colors">
+              <h2 class="text-xl md:text-2xl font-bold tracking-tight  transition-colors">
                 {{ post.title }}
               </h2>
 
               <p
                 v-if="post.description"
-                class="text-sm md:text-base text-muted-foreground line-clamp-2"
+                class="text-sm md:text-base  line-clamp-2"
               >
                 {{ post.description }}
               </p>
