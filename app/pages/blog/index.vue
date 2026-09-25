@@ -36,7 +36,7 @@ useSeoMeta({
   ogTitle: title,
   ogDescription: description,
   ogImage: '/assets/images/icon.jpg',
-  twitterCard: 'summary_large_image'
+  twitterImage: '/assets/images/icon.jpg'
 })
 
 const requestUrl = useRequestURL()
