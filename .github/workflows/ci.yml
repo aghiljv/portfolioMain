@@ -1,34 +1,91 @@
-name: ci
+name: deploy-github-pages
 
-on: push
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
 
 jobs:
-  ci:
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-        node: [22]
+  build:
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v6
-
-      - name: Install node
-        uses: actions/setup-node@v7
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
         with:
-          node-version: ${{ matrix.node }}
+          version: 12.5.1
+          run_install: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
           cache: pnpm
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
 
       - name: Lint
         run: pnpm run lint
 
       - name: Typecheck
         run: pnpm run typecheck
+
+      - name: Generate Nuxt static site
+        run: pnpm exec nuxi generate
+
+      - name: Copy public assets to static output
+        run: |
+          test -d public/assets
+          mkdir -p .output/public
+          cp -a public/. .output/public/
+
+      - name: Verify blog image assets
+        run: |
+          test -d .output/public/assets/images/blog
+          test -f .output/public/.nojekyll
+          test -f .output/public/assets/images/blog/231023/keywords.webp
+          test -f .output/public/assets/images/blog/231023/keywords.jpg
+          test "$(find public/assets -type f | wc -l)" -eq "$(find .output/public/assets -type f | wc -l)"
+
+      - name: Copy Nuxt client assets to public output
+        run: |
+          client_assets=$(find . -type d -path '*/.nuxt/dist/client' -print -quit)
+          test -n "$client_assets"
+          mkdir -p .output/public
+          cp -R "$client_assets"/. .output/public/
+
+      - name: Verify generated CSS assets
+        run: |
+          find .output/public -type f -name '*.css' -print
+          test -n "$(find .output/public -type f -name '*.css' -print -quit)"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./.output/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
