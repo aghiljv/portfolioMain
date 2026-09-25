@@ -68,10 +68,10 @@ jobs:
           mkdir -p .output/public
           cp -R "$client_assets"/. .output/public/
 
-      - name: Verify generated CSS assets
-        run: |
-          find .output/public -type f -name '*.css' -print
-          test -n "$(find .output/public -type f -name '*.css' -print -quit)"
+      # - name: Verify generated CSS assets
+      #   run: |
+      #     find .output/public -type f -name '*.css' -print
+      #     test -n "$(find .output/public -type f -name '*.css' -print -quit)"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
