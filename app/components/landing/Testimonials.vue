@@ -12,28 +12,18 @@ interface TestimonialAuthor {
   [key: string]: unknown
 }
 
-// Helper function to resolve relative image URLs to full absolute URLs with current origin
-const resolveImageUrl = (src?: string) => {
-  if (!src) return ''
-  if (src.startsWith('http://') || src.startsWith('https://')) {
-    return src
+const requestUrl = useRequestURL()
+
+// Helper to resolve string image paths or avatar objects into a clean, absolute URL
+const getAvatarSrc = (avatar?: string | { src?: string }): string => {
+  if (!avatar) return ''
+  const rawSrc = typeof avatar === 'string' ? avatar : avatar.src || ''
+  if (!rawSrc) return ''
+  if (rawSrc.startsWith('http://') || rawSrc.startsWith('https://')) {
+    return rawSrc
   }
-  const origin = typeof window !== 'undefined' ? window.location.origin : ''
-  const cleanSrc = src.startsWith('/') ? src : `/${src}`
-  return `${origin}${cleanSrc}`
-}
-
-// Function to format the author object for UUser with resolved avatar image source
-const formatAuthor = (author?: TestimonialAuthor) => {
-  if (!author) return {}
-
-  const rawAvatarSrc = typeof author.avatar === 'string' ? author.avatar : author.avatar?.src
-  const resolvedAvatar = rawAvatarSrc ? resolveImageUrl(rawAvatarSrc) : undefined
-
-  return {
-    ...author,
-    avatar: resolvedAvatar ? { src: resolvedAvatar, alt: author.name || 'Author avatar' } : author.avatar
-  }
+  const cleanSrc = rawSrc.startsWith('/') ? rawSrc : `/${rawSrc}`
+  return `${requestUrl.origin}${cleanSrc}`
 }
 </script>
 
@@ -62,11 +52,22 @@ const formatAuthor = (author?: TestimonialAuthor) => {
           description: 'text-base! text-balance before:content-[open-quote] before:text-5xl lg:before:text-7xl before:inline-block before:text-dimmed before:absolute before:-ml-6 lg:before:-ml-10 before:-mt-2 lg:before:-mt-4 after:content-[close-quote] after:text-5xl lg:after:text-7xl after:inline-block after:text-dimmed after:absolute after:mt-1 lg:after:mt-0 after:ml-1 lg:after:ml-2'
         }"
       >
-        <UUser
-          v-bind="formatAuthor(item.author)"
-          size="xl"
-          class="justify-center"
-        />
+        <div class="flex items-center justify-center gap-3">
+          <img
+            v-if="getAvatarSrc((item.author as TestimonialAuthor)?.avatar)"
+            :src="getAvatarSrc((item.author as TestimonialAuthor)?.avatar)"
+            :alt="(item.author as TestimonialAuthor)?.name || 'Author avatar'"
+            class="w-10 h-10 rounded-full object-cover shrink-0"
+          >
+          <div class="flex flex-col text-left">
+            <span v-if="(item.author as TestimonialAuthor)?.name" class="text-sm font-medium">
+              {{ (item.author as TestimonialAuthor)?.name }}
+            </span>
+            <span v-if="(item.author as TestimonialAuthor)?.description" class="text-xs text-muted">
+              {{ (item.author as TestimonialAuthor)?.description }}
+            </span>
+          </div>
+        </div>
       </UPageCTA>
     </UCarousel>
   </UPageSection>
