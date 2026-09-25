@@ -109,7 +109,7 @@ const components = {
           </div>
           <img
             v-if="page.image"
-            :src="typeof page.image === 'string' ? page.image : page.image?.src"
+            :src="typeof page.image === 'string' ? page.image : ''"
             :alt="page.title"
             class="rounded-lg w-full h-[300px] object-cover object-center"
           >
