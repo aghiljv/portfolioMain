@@ -56,19 +56,19 @@ testimonials:
       name: "Kripesh Krishnadas"
       description: "Head of Department. Advanced Engineering . Dresden, Germany"
       avatar:
-        src: "/assets/images/testimonials/kripesh.webp"
+        src: "/assets/images/testimonials/kripesh.jpg"
   - quote: "I had the pleasure of working with Aghil at Nissan Digital Hub innovation lab, where he consistently demonstrated exceptional technical skills and a proactive approach to solving business problems. Aghil is a hardworking, self-motivated, and intelligent team player with a vast knowledge of multiple programming languages, mathematical solution development, and a background in physics. He is a multi-skilled person with impressive productivity and consistently delivers high-quality work. It was a pleasure to work with him, and I am confident he will be a valuable asset to any organization lucky enough to have him on their team."
     author:
       name: "James Antony John"
       description: "Director . Enterprise AI Advisory . Bengaluru, India"
       avatar:
-        src: "/assets/images/testimonials/james.webp"
+        src: "/assets/images/testimonials/james.jpg"
   - quote: "I highly recommend Aghil for his exceptional work on innovation initiatives. One of his notable accomplishments was creating a 3D vehicle simulation and rendering project using Unity, controlled with VR and MR. Aghil's ability to be a self-learner and experimenter made him an excellent fit for his innovation initiative role. Additionally, after dedicating a year to learning Flutter and Unity, he shared his experiences through technical blogs that gained popularity and recognition within the developer community. Overall, Aghil's passion and dedication to innovation are commendable, and I have no doubt that he will excel in his future endeavors."
     author:
       name: "Gireesan Namboothiri P"
       description: "Enterprise Architect . AI, Connected Vehicle Solutions . Trivandrum, india"
       avatar:
-        src: "/assets/images/testimonials/gireesan.webp"
+        src: "/assets/images/testimonials/gireesan.jpg"
 blog:
   title: "Latest Articles"
   description: "Thoughts on software engineering, product thinking, UX, and emerging technology."

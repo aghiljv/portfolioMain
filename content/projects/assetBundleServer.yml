@@ -1,6 +1,5 @@
 title: Asset Bundle Server
 description: Built a Unity 3D asset streaming solution using Node.js and C# to improve content delivery and streamline the workflow for simulation and game-related assets.
-image: "/assets/images/projects/assetBundleServer.webp"
-url: "https://aghiljose.com/portfolio/Asset%20Bundle%20Server"
+image: "/assets/images/projects/assetBundleServer.jpg"
 tags: ["Unity 3D", "Node.js", "C#"]
 date: "2019"
