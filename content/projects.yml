@@ -1,6 +1,9 @@
-title: Designing Interfaces, Building Experiences.
-description: I've worked on a variety of projects, focusing on creating intuitive digital experiences where thoughtful design meets clean code. Here are some highlights I'm proud of, showcasing my process from concept to execution.
+title: Designing and Building Useful Software
+description: I work on projects spanning frontend engineering, product thinking, simulation, media, and experimentation. Here are a few examples of the work that reflects my interests and the problems I enjoy solving.
 links:
   - label: "Let's talk"
+    to: https://www.linkedin.com/in/aghil-jose/
     color: "neutral"
-  - label: 'Email me'
+  - label: "Email me"
+    to: mailto:career@aghiljose.com
+    color: "secondary"

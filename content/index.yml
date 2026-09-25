@@ -1,13 +1,19 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Aghil Jose - Software Engineer"
+  description: "Software engineer based in Munich, Germany. I build practical software, explore new technologies, and turn complex ideas into useful products."
+title: "Hey, I'm Aghil Jose"
+description: "I build software that balances engineering rigor, user experience, and real-world product thinking. Based in Munich, Germany."
 hero:
   links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
+    - label: "LinkedIn"
+      to: https://www.linkedin.com/in/aghil-jose/
+      color: "primary"
+    - label: "GitHub"
+      to: https://github.com/aghiljv
       color: "neutral"
+    - label: "Medium"
+      to: https://medium.com/@aghiljv
+      color: "secondary"
   images:
     - src: /hero/random-1.avif
       alt: Random Image 1
@@ -30,91 +36,92 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    I’m a software engineer based in Munich, Germany, with experience across end-to-end application development, product engineering, and research-driven problem solving.
+    I enjoy building software that is useful, thoughtful, and technically solid—from frontend experiences to scalable systems and immersive digital products.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
+    - position: "Senior Frontend Engineer at"
       date: "2023 - Present"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
+        name: ECT
+        logo: "i-simple-icons-code"
+        url: "https://www.ect-telecoms.com/"
+        color: "#b5c428"
+    - position: "Software Innovation Engineer at"
       date: "2022 - 2023"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: JOYNEXT
+        logo: "i-simple-icons-cpu"
+        url: "https://www.joynext.com/"
+        color: "#00a29a"
+    - position: "Software Engineer II at"
+      date: "2021 - 2022"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Nissan Motor Corporation
+        logo: "i-simple-icons-car"
+        url: "https://www.nissan-global.com/"
+        color: "#007aff"
+    - position: "Software Engineer I at"
+      date: "2018 - 2021"
+      company:
+        name: Nissan Motor Corporation
+        logo: "i-simple-icons-car"
+        url: "https://www.nissan-global.com/"
+        color: "#007aff"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Aghil did a great job in his role at Nissan Digital hub innovation lab. He has a very impressive background and very productive person, is hardworking, a multi-skilled person with vast knowledge, in multiple programming languages, mathematical solution development, he always do a proactive approach to solve business problems, self motivated and intelligent team player. It’s a pleasure working with him."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: "Kripesh Krishnadas"
+      description: "Head of Department. Advanced Engineering . Dresden, Germany"
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: "/assets/images/testimonials/kripesh.webp"
+  - quote: "I had the pleasure of working with Aghil at Nissan Digital Hub innovation lab, where he consistently demonstrated exceptional technical skills and a proactive approach to solving business problems. Aghil is a hardworking, self-motivated, and intelligent team player with a vast knowledge of multiple programming languages, mathematical solution development, and a background in physics. He is a multi-skilled person with impressive productivity and consistently delivers high-quality work. It was a pleasure to work with him, and I am confident he will be a valuable asset to any organization lucky enough to have him on their team."
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: "James Antony John"
+      description: "Director . Enterprise AI Advisory . Bengaluru, India"
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: "/assets/images/testimonials/james.webp"
+  - quote: "I highly recommend Aghil for his exceptional work on innovation initiatives. One of his notable accomplishments was creating a 3D vehicle simulation and rendering project using Unity, controlled with VR and MR. Aghil's ability to be a self-learner and experimenter made him an excellent fit for his innovation initiative role. Additionally, after dedicating a year to learning Flutter and Unity, he shared his experiences through technical blogs that gained popularity and recognition within the developer community. Overall, Aghil's passion and dedication to innovation are commendable, and I have no doubt that he will excel in his future endeavors."
     author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: "Gireesan Namboothiri P"
+      description: "Enterprise Architect . AI, Connected Vehicle Solutions . Trivandrum, india"
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: "/assets/images/testimonials/gireesan.webp"
 blog:
   title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  description: "Thoughts on software engineering, product thinking, UX, and emerging technology."
 faq:
   title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  description: Answers to common questions about my work, interests, and engineering mindset.
   categories:
-    - title: Services & Process
-      questions:
-        - label: What services do you offer?
-          content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
-          content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
-          content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Timelines
-      questions:
-        - label: How much does a project typically cost?
-          content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
-        - label: What are your payment terms?
-          content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
-          content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
-          content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
     - title: About Me
       questions:
-        - label: What do you enjoy most about your work?
+        - label: Where are you based?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            I’m based in Munich, Germany, and work on software that combines engineering, research, and product thinking.
+        - label: What kind of work do you do?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            I build end-to-end software experiences, from product ideas and technical architecture to implementation and iteration. I’m especially interested in applications that are practical, useful, and technically elegant.
+        - label: What do you enjoy most about software engineering?
+          content: |
+            I enjoy turning complex problems into clear solutions. The best engineering work is not just technically strong—it also improves how people experience and interact with technology.
+    - title: Experience
+      questions:
+        - label: What is your background?
+          content: |
+            My experience spans frontend engineering, software innovation, and automotive software development. I’ve worked with teams in agile and structured environments and have contributed across product, implementation, and research-driven development.
+        - label: What industries have you worked in?
+          content: |
+            I’ve worked in automotive software, product engineering, and digital innovation. My experience has taught me how to adapt engineering practices to different domains while keeping the user and business goals in view.
+        - label: Do you work with product and design teams?
+          content: |
+            Yes. I value collaboration across engineering, design, and product. Good software is often the result of combining technical feasibility with strong product thinking and user empathy.
+    - title: Outside Work
+      questions:
+        - label: What do you like outside of work?
+          content: |
+            I enjoy football, travel, photography, reading, and staying curious about emerging technologies and how they shape the future.
+        - label: What topics do you like to explore?
+          content: |
+            I’m interested in software engineering, UX, emerging tech, AI, autonomous systems, and the way technology influences everyday life and business.
