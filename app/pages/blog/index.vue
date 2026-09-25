@@ -30,7 +30,14 @@ useSeoMeta({
   ogDescription: description
 })
 
-defineOgImage('Portfolio', { title, description })
+useSeoMeta({
+  title,
+  description,
+  ogTitle: title,
+  ogDescription: description,
+  ogImage: '/assets/images/icon.jpg',
+  twitterCard: 'summary_large_image'
+})
 
 const requestUrl = useRequestURL()
 
