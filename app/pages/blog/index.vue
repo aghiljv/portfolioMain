@@ -59,21 +59,48 @@ defineOgImage('Portfolio', { title, description })
           :transition="{ delay: 0.2 * index }"
           :in-view-options="{ once: true }"
         >
-          <UBlogPost
-            variant="naked"
-            orientation="horizontal"
+          <NuxtLink
             :to="post.path"
-            v-bind="post"
-            :ui="{
-              root: 'md:grid md:grid-cols-2 group overflow-visible transition-all duration-300',
-              image:
-                'group-hover/blog-post:scale-105 rounded-lg shadow-lg border-4 border-muted ring-2 ring-default',
-              header:
-                index % 2 === 0
-                  ? 'sm:-rotate-1 overflow-visible'
-                  : 'sm:rotate-1 overflow-visible'
-            }"
-          />
+            class="group grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-center overflow-visible"
+          >
+            <!-- Image Container -->
+            <div
+              :class="[
+                'overflow-visible transition-transform duration-300',
+                index % 2 === 0 ? 'sm:-rotate-1' : 'sm:rotate-1'
+              ]"
+            >
+              <img
+                v-if="post.image"
+                :src="typeof post.image === 'string' ? post.image : post.image?.src"
+                :alt="post.title || 'Blog post image'"
+                loading="lazy"
+                class="w-full h-auto object-cover rounded-lg shadow-lg border-4 border-muted ring-2 ring-default transition-transform duration-300 group-hover:scale-105"
+              >
+            </div>
+
+            <!-- Content Area -->
+            <div class="flex flex-col justify-center space-y-2">
+              <time
+                v-if="post.date"
+                :datetime="post.date"
+                class="text-xs text-muted-foreground font-medium"
+              >
+                {{ new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) }}
+              </time>
+
+              <h2 class="text-xl md:text-2xl font-bold tracking-tight text-foreground group-hover:text-primary transition-colors">
+                {{ post.title }}
+              </h2>
+
+              <p
+                v-if="post.description"
+                class="text-sm md:text-base text-muted-foreground line-clamp-2"
+              >
+                {{ post.description }}
+              </p>
+            </div>
+          </NuxtLink>
         </Motion>
       </div>
     </UPageSection>
