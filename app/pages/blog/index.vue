@@ -31,6 +31,20 @@ useSeoMeta({
 })
 
 defineOgImage('Portfolio', { title, description })
+
+const requestUrl = useRequestURL()
+
+// Helper function to reliably resolve image paths across SSR/SSG
+const getPostImageSrc = (image?: string | { src?: string }) => {
+  if (!image) return ''
+  const rawSrc = typeof image === 'string' ? image : image.src || ''
+  if (!rawSrc) return ''
+  if (rawSrc.startsWith('http://') || rawSrc.startsWith('https://')) {
+    return rawSrc
+  }
+  const cleanSrc = rawSrc.startsWith('/') ? rawSrc : `/${rawSrc}`
+  return `${requestUrl.origin}${cleanSrc}`
+}
 </script>
 
 <template>
@@ -56,8 +70,8 @@ defineOgImage('Portfolio', { title, description })
           :key="post.path || index"
           :initial="{ opacity: 0, transform: 'translateY(10px)' }"
           :while-in-view="{ opacity: 1, transform: 'translateY(0)' }"
-          :transition="{ delay: 0.2 * index }"
-          :in-view-options="{ once: true }"
+          :transition="{ duration: 0.3, delay: Math.min(index * 0.05, 0.2) }"
+          :in-view-options="{ once: true, margin: '200px 0px' }"
         >
           <NuxtLink
             :to="post.path"
@@ -71,10 +85,11 @@ defineOgImage('Portfolio', { title, description })
               ]"
             >
               <img
-                v-if="post.image"
-                :src="typeof post.image === 'string' ? post.image : ''"
+                v-if="getPostImageSrc(post.image)"
+                :src="getPostImageSrc(post.image)"
                 :alt="post.title || 'Blog post image'"
-                loading="lazy"
+                :loading="index < 2 ? 'eager' : 'lazy'"
+                decoding="async"
                 class="w-full h-auto object-cover rounded-lg shadow-lg border-4 border-muted ring-2 ring-default transition-transform duration-300 group-hover:scale-105"
               >
             </div>
@@ -84,18 +99,18 @@ defineOgImage('Portfolio', { title, description })
               <time
                 v-if="post.date"
                 :datetime="post.date"
-                class="text-xs  font-medium"
+                class="text-xs font-medium"
               >
                 {{ new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) }}
               </time>
 
-              <h2 class="text-xl md:text-2xl font-bold tracking-tight  transition-colors">
+              <h2 class="text-xl md:text-2xl font-bold tracking-tight transition-colors">
                 {{ post.title }}
               </h2>
 
               <p
                 v-if="post.description"
-                class="text-sm md:text-base  line-clamp-2"
+                class="text-sm md:text-base line-clamp-2"
               >
                 {{ post.description }}
               </p>
