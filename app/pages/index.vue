@@ -1,13 +1,13 @@
 <script setup lang="ts">
-const { data: page } = await useAsyncData("index", () => {
-  return queryCollection("index").first();
-});
+const { data: page } = await useAsyncData('index', () => {
+  return queryCollection('index').first()
+})
 if (!page.value) {
   throw createError({
     statusCode: 404,
-    statusMessage: "Page not found",
-    fatal: true,
-  });
+    statusMessage: 'Page not found',
+    fatal: true
+  })
 }
 
 useSeoMeta({
@@ -15,15 +15,15 @@ useSeoMeta({
   ogTitle: page.value?.seo.title || page.value?.title,
   description: page.value?.seo.description || page.value?.description,
   ogDescription: page.value?.seo.description || page.value?.description,
-  ogImage: "https://ui.nuxt.com/assets/templates/nuxt/portfolio-light.png",
-});
+  ogImage: 'https://ui.nuxt.com/assets/templates/nuxt/portfolio-light.png'
+})
 </script>
 
 <template>
   <UPage v-if="page">
     <LandingHero :page />
     <UPageSection :ui="{
-      container: 'pt-0! lg:grid lg:grid-cols-[2fr_3fr] lg:gap-4',
+      container: 'pt-0! lg:grid lg:grid-cols-[2fr_3fr] lg:gap-4'
     }">
       <LandingAbout :page />
       <LandingWorkExperience :page />
