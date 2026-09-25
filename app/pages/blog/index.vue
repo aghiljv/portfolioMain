@@ -50,10 +50,10 @@ defineOgImage('Portfolio', { title, description })
         container: 'pt-0!'
       }"
     >
-      <UBlogPosts orientation="vertical">
+      <div class="flex flex-col gap-8 md:gap-12">
         <Motion
           v-for="(post, index) in posts"
-          :key="index"
+          :key="post.path || index"
           :initial="{ opacity: 0, transform: 'translateY(10px)' }"
           :while-in-view="{ opacity: 1, transform: 'translateY(0)' }"
           :transition="{ delay: 0.2 * index }"
@@ -75,7 +75,7 @@ defineOgImage('Portfolio', { title, description })
             }"
           />
         </Motion>
-      </UBlogPosts>
+      </div>
     </UPageSection>
   </UPage>
 </template>
