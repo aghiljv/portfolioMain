@@ -72,7 +72,7 @@ defineOgImage('Portfolio', { title, description })
             >
               <img
                 v-if="post.image"
-                :src="typeof post.image === 'string' ? post.image : post.image?.src"
+                :src="typeof post.image === 'string' ? post.image : ''"
                 :alt="post.title || 'Blog post image'"
                 loading="lazy"
                 class="w-full h-auto object-cover rounded-lg shadow-lg border-4 border-muted ring-2 ring-default transition-transform duration-300 group-hover:scale-105"
