@@ -29,17 +29,17 @@ export default defineAppConfig({
       'icon': 'i-simple-icons-medium',
       'to': 'https://medium.com/@aghiljv',
       'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
+      'aria-label': 'Medium'
     }, {
       'icon': 'i-simple-icons-linkedin',
       'to': 'https://www.linkedin.com/in/aghil-jose/',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Linkedin'
     }, {
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/aghiljv',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'GitHub'
     }]
   }
 })
