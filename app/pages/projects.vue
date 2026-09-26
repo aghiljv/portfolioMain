@@ -20,13 +20,13 @@ const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
 
 useSeoMeta({
-  title,
-  ogTitle: title,
-  description,
-  ogDescription: description
+  title: page.value?.seo.title || page.value?.title,
+  ogTitle: page.value?.seo.title || page.value?.title,
+  description: page.value?.seo.description || page.value?.description,
+  ogDescription: page.value?.seo.description || page.value?.description,
+  ogImage: '/assets/images/seo/homepageSEO.png'
 })
 
-defineOgImage('Portfolio', { title, description })
 </script>
 
 <template>

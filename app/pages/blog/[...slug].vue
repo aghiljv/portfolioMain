@@ -26,21 +26,13 @@ const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
 
 useSeoMeta({
-  title,
-  description,
-  ogDescription: description,
-  ogTitle: title
+  title: page.value?.seo.title || page.value?.title,
+  ogTitle: page.value?.seo.title || page.value?.title,
+  description: page.value?.seo.description || page.value?.description,
+  ogDescription: page.value?.seo.description || page.value?.description,
+  ogImage: page.value?.image || '/assets/images/seo/homepageSEO.png'
 })
 
-if (page.value.image) {
-  useSeoMeta({ ogImage: page.value.image })
-} else {
-  defineOgImage('Portfolio', {
-    title,
-    description,
-    headline: 'Blog'
-  })
-}
 
 const articleLink = computed(() => `${window?.location}`)
 

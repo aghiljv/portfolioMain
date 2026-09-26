@@ -24,19 +24,11 @@ const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
 
 useSeoMeta({
-  title,
-  ogTitle: title,
-  description,
-  ogDescription: description
-})
-
-useSeoMeta({
-  title,
-  description,
-  ogTitle: title,
-  ogDescription: description,
-  ogImage: '/assets/images/icon.jpg',
-  twitterImage: '/assets/images/icon.jpg'
+  title: page.value?.seo.title || page.value?.title,
+  ogTitle: page.value?.seo.title || page.value?.title,
+  description: page.value?.seo.description || page.value?.description,
+  ogDescription: page.value?.seo.description || page.value?.description,
+  ogImage: '/assets/images/seo/homepageSEO.png'
 })
 
 const requestUrl = useRequestURL()
