@@ -22,10 +22,7 @@ Representing data, the means of processing it, and control mechanisms.
 Computer chips contain modules, which contain logic gates, which contain
 transistors.
 
-A transistor is the simplest form of a data processor in computers, basically
-a switch that can either block, or open the way for information coming
-through. This information is made up of bits which can be set to either 0 or
-1. Combinations of several bits are used to represent more complex
+A transistor is the simplest form of a data processor in computers, basically a switch that can either block, or open the way for information coming through. This information is made up of bits which can be set to either 0 or 1. Combinations of several bits are used to represent more complex
 information. Transistors are combined to create logic gates which still do
 very simple stuff. For example, an AND Gate sends an output of 1 if all of its
 inputs are 1, and an output of 0 otherwise.
@@ -114,11 +111,9 @@ molecules, they often lack accuracy. So why not simulate quantum physics with
 actual quantum physics? Quantum simulations could provide new insights on
 proteins that might revolutionize medicine.
 
-## We still have no idea where the limits of quantum computers are and but it
-will revolutionize the industry for sure.
+### We still have no idea where the limits of quantum computers are and but it will revolutionize the industry for sure.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

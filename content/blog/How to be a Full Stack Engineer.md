@@ -18,6 +18,7 @@ stack engineers. Some of these centers also support trainees to get plum
 coding jobs at the end of the course.
 
 ## Who is a full stack engineer?
+
 A programmer skilled in coding both the frontend and the backend parts of a
 web application is called a full stack web engineer.
 
@@ -43,20 +44,24 @@ happening within the entire application.
 You can become a full stack engineer by following a few simple steps, such as:
 
 ## 1. Learn the necessary programming languages
+
 A full stack engineer needs to know the following technologies:
 
-## HTML/CSS
+### HTML/CSS
+
 The web is built on these technologies. HTML is the tool that helps engineers
 input content into a website and CSS is a designing tool used to alter the
 appearance of web applications. Both are essential tools for a full stack
 engineer and are taught in all courses, whether online or in-person.
 
-## JavaScript
+### JavaScript
+
 This is a must-have for any full stack engineer. This can be used in both
 front-end and back-end processes. Browsers are built on it and JavaScript can
 be used as a server-side language as well.
 
-## Backend technologies
+### Backend technologies
+
 After mastering HTML/CSS and JavaScript, you need to learn at least one
 language used for coding backend processes. The functions occurring in the
 backend of a web application are database operations, user validation, and
@@ -67,6 +72,7 @@ technology — PHP, Java, Python, or SQL. Learning one of the languages should
 suffice but you should attain proficiency in it.
 
 ## 2. Refine the knowledge
+
 To understand complex concepts, you need to be sure about the fundamentals.
 JavaScript & HTML/CSS form the base of web development. For any novice, you
 should be clear about all aspects of these technologies.
@@ -93,7 +99,7 @@ and create a whole out of the parts. For this, you should understand how each
 part works, its role in the bigger scheme of things and how one part connects
 to the other.
 
-**3. Become familiar with all technologies but a master of one
+## 3. Become familiar with all technologies but a master of one
 
 As the scope of your leaning expands, you will realize that there is much more
 to learn than you possibly can master. Most programmers fail because they try
@@ -108,7 +114,7 @@ produce outstanding work. And with the way this economy is growing with lower
 taxes, you should have a bright career ahead and be able to relocate other
 states if you wish to.
 
-4. Get practical exposure**
+## 4. Get practical exposure
 
 The most challenging part of the process is when you have a thorough
 understanding of all the necessary technologies—HTML/CSS, JavaScript, back-end
@@ -138,6 +144,7 @@ to apply for the position, but most will overlook education if a candidate can
 exhibit the necessary coding abilities.
 
 ## 5. Take up additional assignments
+
 Join additional projects in your company that work on technologies outside
 your expertise. This way you will upskill and add extra value to your
 organization as well. Most companies will appreciate these types of
@@ -147,4 +154,3 @@ of learning.
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

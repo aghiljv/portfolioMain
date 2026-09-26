@@ -65,11 +65,8 @@ Even after nearly two years since it has been introduced to the market, the
 results, if I may are not super mind-blowing. But it is getting better by
 time. The revolution in the gaming industry has already started.
 
-With AMD’s ray tracing graphics around the corner and the resulting
-competition, one can only hope, that it brings advancements in ray tracing
-in an exponential rate.
+### With AMD’s ray tracing graphics around the corner and the resulting competition, one can only hope, that it brings advancements in ray tracing in an exponential rate.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

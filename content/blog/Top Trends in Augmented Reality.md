@@ -17,6 +17,7 @@ support is definitely strong for AR. The installed user base for AR, this time
 last year was over 1 billion which is only going to go north.
 
 ## 1. Automotive Industry
+
 ![arAutomotive](/assets/images/blog/010620/arAutomotive.jpg)
 
 Heads-up displays have been a fixture in military aerospace for decades, but
@@ -31,6 +32,7 @@ Designing, Planning, Testing, Quality Assurance, etc. are some of the areas
 that could easily adopt the benefits and it surely doesn't stop there.
 
 ## 2. Mobile AR
+
 ![arMobile](/assets/images/blog/010620/arMobile.jpg)
 
 Since the introduction of Google’s ARCore and Apple’s ARKit Software
@@ -43,7 +45,8 @@ competition for dominance can only benefit the developers and undoubtedly the
 end users.
 
 ## 3. WebAR
-![arNavigation](/assets/images/blog/010620/arNavigation.jpg)
+
+![arWeb](/assets/images/blog/010620/arWeb.jpg)
 
 Instead of needing to use specialized apps, users can simply log on to
 AR-enabled websites to access the same level of functionality. Google and
@@ -52,6 +55,7 @@ Firefox respectively, though the prior is far ahead. Apple, Samsung and
 Microsoft web browser offerings are also rapidly adopting the WebAR standards.
 
 ## 4. Shopping
+
 ![arShopping](/assets/images/blog/010620/arShopping.jpg)
 
 At least 100 million users were expected to utilize AR-enabled shopping by
@@ -67,7 +71,8 @@ the new social distancing norms. Virtual assistants will also significantly
 change the shopping experience.
 
 ## 5. Navigation
-![arWeb](/assets/images/blog/010620/arWeb.jpg)
+
+![arNavigation](/assets/images/blog/010620/arNavigation.jpg)
 
 This is the obvious one. AR can not only be used for heads up displays in
 automobiles, but also can make a significant contribution to indoor
@@ -81,10 +86,8 @@ of the inbuilt camera, users were able to see information regarding their
 surroundings in real-time. The AR powered navigation is expected to conquer
 new territories.
 
-According to experts, the AR/VR/MR/XR industry will be dominating in the
-future and the growth will continue to be steady.
+### According to experts, the AR/VR/MR/XR industry will be dominating in the future and the growth will continue to be steady.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

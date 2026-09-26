@@ -36,6 +36,7 @@ leveraged to our current needs.
 Let’s go through some of them.
 
 ## 1. Cost Saving
+
 ![costSaving](/assets/images/blog/050720/costSaving.jpg)
 
 A fully equipped autonomous vehicle may cost around half a million dollars.
@@ -49,6 +50,7 @@ much from the virtual environments before it even hits the road. Money will be
 saved by reducing number of prototypes in effect.
 
 ## 2. Distance Coverage
+
 ![distanceCoverage](/assets/images/blog/050720/distanceCoverage.jpg)
 
 Back in 2018, the commonly accepted number of 1 Billion miles was supposed to
@@ -60,6 +62,7 @@ on public roads and followed through with the same rate, it would have taken
 around roughly them around 5.5 centuries to reach the 1st Billion.
 
 ## 3. More Scenarios to learn from
+
 ![moreScenarios](/assets/images/blog/050720/moreScenarios.jpg)
 
 We could test them on real roads, if you only need to check a few use cases.
@@ -74,6 +77,7 @@ These scenarios are to be considered but might not be encountered in the real
 world.
 
 ## 4. Safety
+
 ![safety](/assets/images/blog/050720/safety.jpg)
 
 There is a high probability of the vehicle not detecting a person or an animal
@@ -85,10 +89,8 @@ still occur in the virtual environment. But the differences are, there won’t
 be any harm to any person or animal and no lasting damage to the vehicle
 prototype or third-party property.
 
-As more and more companies are leaning into Virtual Test Driving, this list
-could only increase and contribute more for a driver-less future.
+### As more and more companies are leaning into Virtual Test Driving, this list could only increase and contribute more for a driver-less future.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

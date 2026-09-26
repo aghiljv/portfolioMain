@@ -122,9 +122,7 @@ road or drifting. Driver monitoring systems can alert drivers with noises,
 vibrations in the steering wheel, or flashing lights. In some cases, the car
 will take the extreme measure of stopping the vehicle completely.
 
-## Automobiles are the foundation of the next generation of mobile-connected
-
-devices, with rapid advances being made in autonomous vehicles.
+### Automobiles are the foundation of the next generation of mobile-connected devices, with rapid advances being made in autonomous vehicles.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,

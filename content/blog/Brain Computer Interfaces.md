@@ -124,10 +124,8 @@ developed to assist people with medical conditions. Nevertheless, the
 possibility has to exist for more advanced forms of such technology to develop
 into sophisticated non-medical human-computer interfaces.
 
-## It is clear that BCI's are rising and in the future, this could lead to some
-kind of cyborg fusion between human beings and machines.
+### It is clear that BCI's are rising and in the future, this could lead to some kind of cyborg fusion between human beings and machines.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

@@ -37,7 +37,7 @@ market.
 
 ## 1. ReactJS
 
-![angular](/assets/images/blog/040520/angular.png)
+![react](/assets/images/blog/040520/react.png)
 
 ReactJS is an effective open-source Javascript Library used for making
 interactive UIs. This quickly developing JS framework is utilised by website
@@ -53,7 +53,7 @@ Notable users : Facebook, Netflix.
 
 ## 2. VueJS
 
-![ember](/assets/images/blog/040520/ember.png)
+![vue](/assets/images/blog/040520/vue.png)
 
 One of he most celebrated and my personal favourite VueJS was made by Evan You
 in 2014. It is open-source and lightweight and is used to create inventive
@@ -68,7 +68,7 @@ Notable users : Adobe, Behance.
 
 ## 3. Angular
 
-![react](/assets/images/blog/040520/react.png)
+![angular](/assets/images/blog/040520/angular.png)
 
 Angular is one of the most proficient and well-known JavaScript frameworks
 that give developers the best answers for consolidate JavaScript with HTML and
@@ -99,7 +99,7 @@ Notable users : NY Times, Razorpay.
 
 ## 5. EmberJS
 
-![vue](/assets/images/blog/040520/vue.png)
+![ember](/assets/images/blog/040520/ember.png)
 
 EmberJS is an open-source front-end JavaScript framework that enables software
 engineers to fabricate versatile single-page, work area, and portable
@@ -112,11 +112,7 @@ choices.
 
 Notable users : LinkedIn, Heroku.
 
-Choosing a JavaScript framework for your business or application is not an
-easy task. There are more framework rising into market and might replace
-some of the above mentioned or totally obliterate them all. That being said,
-it is always important for the developers to keep up with them so as to make
-the decision on which one to go forward with.
+### Choosing a JavaScript framework for your business or application is not an easy task. There are more framework rising into market and might replace some of the above mentioned or totally obliterate them all. That being said, it is always important for the developers to keep up with them so as to make the decision on which one to go forward with.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee

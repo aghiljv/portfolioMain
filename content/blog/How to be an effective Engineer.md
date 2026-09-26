@@ -20,6 +20,7 @@ specific. But there are somethings that so many agree upon which could be
 applied by pretty much every one in the industry.
 
 ## 1. Analysis of scenarios
+
 ![analysis](/assets/images/blog/280920/analysis.jpg)
 
 The ability to consider many different scenarios is a must have trait for any
@@ -41,7 +42,8 @@ logic.
 - What happens if the argument is null? Etc.
 
 ## 2. Problem Decomposition
-![consistency](/assets/images/blog/280920/consistency.jpg)
+
+![problem](/assets/images/blog/280920/problem.jpg)
 
 Software is primarily about solving problems. So, before we start writing
 code, we need to be clear on how to solve the problem. The ability to break
@@ -51,7 +53,8 @@ such a way that the resulting program is easy to reason about, easy to
 implement and test.
 
 ## 3. Naming
-![learning](/assets/images/blog/280920/learning.jpg)
+
+![naming](/assets/images/blog/280920/naming.jpg)
 
 Properly naming classes, methods, functions and variables goes a long way.
 When done well, the software becomes self-documenting. That is, the function
@@ -64,7 +67,8 @@ each name represents. Sometimes that might change during the development
 process. That is why renaming is just as important as naming.
 
 ## 4. Consistency
-![naming](/assets/images/blog/280920/naming.jpg)
+
+![consistency](/assets/images/blog/280920/consistency.jpg)
 
 Managing complexity is undoubtedly one of the biggest challenges in software
 development. Consistency is key here. It reduces some of the complexity by
@@ -80,7 +84,8 @@ Good engineers always ensure that even the small parts are right and the
 consistency is kept while modification.
 
 ## 5. Learning
-![problem](/assets/images/blog/280920/problem.jpg)
+
+![learning](/assets/images/blog/280920/learning.jpg)
 
 We are constantly learning as a software engineer. We have to understand what
 a feature is supposed to do before adding it. It goes without saying prior to
@@ -90,10 +95,8 @@ surrounding systems in order to interface with them appropriately. Obviously,
 the ability to learn fast will make us more effective, but not necessarily
 always.
 
-## If we have these skills, we can learn new languages and tools much quicker
-and create exceptional software.
+### If we have these skills, we can learn new languages and tools much quicker and create exceptional software.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

@@ -114,13 +114,8 @@ where the processing happens based on this collected data. The system decides
 whether to keep the temperature or to change it and we can see the result of
 this on the interactive screen of the fridge.
 
-## It would not be crazy to see that we may live in a future, like how it is
-depicted in sci-fi movies. A future in which everything we use is connected to
-the internet, where it interacts with a central cloud, where all of our data
-is being collected and being utilized to make our lives and our society a much
-better place.
+### It would not be crazy to see that we may live in a future, like how it is depicted in sci-fi movies. A future in which everything we use is connected to the internet, where it interacts with a central cloud, where all of our data is being collected and being utilized to make our lives and our society a much better place.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

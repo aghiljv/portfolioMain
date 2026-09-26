@@ -92,11 +92,8 @@ is the creation of smart contracts. These contracts are simple programs that
 are stored on the blockchain and can be used to automatically exchange coins
 based on certain conditions.
 
-The creation of blockchain technology peaked a lot of people’s interest. Soon,
-others realized that the technology could be used for other things like
-storing medical records, creating a digital notary or even collecting taxes.
+### The creation of blockchain technology peaked a lot of people’s interest. Soon, others realized that the technology could be used for other things like storing medical records, creating a digital notary or even collecting taxes.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

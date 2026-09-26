@@ -102,10 +102,7 @@ should:
 
 - Be made easy to live with and controllable by ordinary people.
 
-## As a result of maturing AmI research, the resulting technologies promise to
-
-revolutionize daily human life by making people’s surroundings flexible and
-adaptive.
+### As a result of maturing AmI research, the resulting technologies promise to revolutionize daily human life by making people’s surroundings flexible and adaptive.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,

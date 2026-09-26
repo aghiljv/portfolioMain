@@ -37,7 +37,8 @@ So, here is what I think that are the reasons for someone to consider to
 choose Unity 3D for their particular set of requirements.
 
 ## 1. Cross Platform
-![documentation](/assets/images/blog/110520/documentation.jpg)
+
+![platforms](/assets/images/blog/110520/platforms.jpg)
 
 One of the biggest advantages of using Unity3D is you are not confined to a
 single platform. The games you make can be rendered to be used on over 25
@@ -46,7 +47,8 @@ Imagine to code and develop for once and run it on all the top platforms out
 there. That is the power Unity 3D provides you.
 
 ## 2. Documentation
-![editor](/assets/images/blog/110520/editor.jpg)
+
+![documentation](/assets/images/blog/110520/documentation.jpg)
 
 For developers that are just starting out, documentations are easy to
 understand. Unity 3D does provide that and in detail. It includes explanation
@@ -54,6 +56,7 @@ of every single topic, no matter big or small. It is undoubtedly, must have
 feature for not just game engines, but all software tools.
 
 ## 3. Debugging
+
 The Unity 3D has a Play mode, which the developers can make use of for rapid
 iterative editing. When you press the "Play" button in the editor, you are
 inside your game. At any point of time, if you encounter a bug or feel that
@@ -62,7 +65,8 @@ the code as per your liking and can see the results instantly. You can even
 cruise through your game frame by frame and pinpoint the problems.
 
 ## 4. All-in-one Editor
-![platforms](/assets/images/blog/110520/platforms.jpg)
+
+![editor](/assets/images/blog/110520/editor.jpg)
 
 Loaded with features and with tremendous flexibility, it comes with a powerful
 and easy-to-use editor which is a complete package in itself. With features
@@ -71,18 +75,15 @@ modifiable animations, play mode, timeline storytelling tools and a whole lot
 of other features for your aid, you would rarely go wrong with this one.
 
 ## 5. Unity Analytics
+
 Unity 3D has built-in analytics which you can find easily in the editor. It
 gives you information that can be used to tweak the workflow and offer an
 awesome experience for the users. It does provide key insights about what you
 are building which will in turn help you reduce most of your monetization
 efforts.
 
-Among todays game engines, Unity 3D is considered one of the best. But, as
-every coin has two faces, the engine also has some downsides and benefits.
-The improved versions of Unity 3D have continuously upgraded the engine and
-fixed the issues.
+### Among todays game engines, Unity 3D is considered one of the best. But, as every coin has two faces, the engine also has some downsides and benefits. The improved versions of Unity 3D have continuously upgraded the engine and fixed the issues.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

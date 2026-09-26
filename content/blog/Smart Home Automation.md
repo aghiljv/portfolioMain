@@ -37,6 +37,7 @@ latest technology, or an opportunity for homeowners to show off, but there are
 some amazing practical advantages to home automation. They are:
 
 ## Flexibility for new devices and appliances
+
 Smart home systems tend to be wonderfully flexible when it comes to the
 accommodation of new devices and appliances and other technology. No matter
 how state-of-the-art your appliances seem today, there will be newer, more
@@ -47,6 +48,7 @@ integrate these newcomers seamlessly will make your job as a homeowner much
 easier and allow you to keep upgrading to the latest lifestyle technology.
 
 ## Maximizing home security
+
 When you incorporate security and surveillance features in your smart home
 network, your home security can skyrocket. Only a few dozen are being explored
 currently over a plethora of options. For example, home automation systems can
@@ -58,6 +60,7 @@ goes off and monitor activities in real-time whether you’re in the house or
 halfway around the globe.
 
 ## Managing all of your home devices from one place
+
 The convenience factor here is enormous. Being able to keep all of the
 technology in your home connected through one interface is a massive step
 forward for technology and home management. Theoretically, all you’ll have to
@@ -67,6 +70,7 @@ cuts way back on the learning curve for new users, makes it easier to access
 the functionality you truly want for your home.
 
 ## Increased energy efficiency
+
 Depending on how you use your smart-home technology, it is possible to make
 your space more energy-efficient. For example, you can have more precise
 control over the heating and cooling of your home with a programmable smart
@@ -77,6 +81,7 @@ sets or lights can turn on and off automatically when you enter or leave the
 room, so you never have to worry about wasting energy.
 
 ## Improved appliance functionality
+
 Smart homes can also help you run your appliances better. A smart TV will help
 you find better apps and channels to locate your favourite programming. A
 smart oven will assist you with cooking your chicken to perfection, without
@@ -88,6 +93,7 @@ appliance effectiveness and overall make your home life much more easier and
 enjoyable!
 
 ## Remote control of home functions
+
 Don’t underestimate the power of being able to control your home’s functions
 from a distance. On an exceptionally hot day, you can order your house to
 become cooler in just enough time before you get home from work. If you are in
@@ -97,6 +103,7 @@ to see if you left the lights on, who is at your front door or make sure you
 turned off all your media while you are away.
 
 ## Home management insights
+
 There is also something to be said for your ability to tap into insights on
 how your home operates. You can monitor how often you watch TV, what kind of
 meals you cook in your oven, the type of foods you keep in your refrigerator
@@ -104,11 +111,8 @@ and your energy consumption habits over time. From these insights, you may be
 able to analyse your daily habits and behaviours, and make adjustments to live
 the lifestyle you desire.
 
-## World’s biggest tech companies and innovators have entered a race to outdo
-one another in smart home technologies, which will result in bigger, better
-smart home tech constantly being developed to match our digital needs.
+### World’s biggest tech companies and innovators have entered a race to outdo one another in smart home technologies, which will result in bigger, better smart home tech constantly being developed to match our digital needs.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

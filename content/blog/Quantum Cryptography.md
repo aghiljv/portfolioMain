@@ -144,11 +144,8 @@ internet user will have access to an QKD endpoint anywhere in the near future.
 That means, except for the most sensitive, high-value communications, better
 encryption algorithms are the way to go.
 
-## We are probably decades away from the point at which quantum computers can
-be used to break today’s RSA encryption. There’s plenty of time to upgrade to
-newer encryption algorithms.
+### We are probably decades away from the point at which quantum computers can be used to break today’s RSA encryption. There’s plenty of time to upgrade to newer encryption algorithms.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

@@ -41,7 +41,7 @@ almost completely by a single vendor in the beginning, resulting in a narrow
 spectrum of implementations with limited market share, developers need to be
 careful as that landscape of implementations broadens over time.
 
-**Multiple Design Paths** **
+**Multiple Design Paths** \*\*
 
 That's especially true when it comes to a largely black box feature like ray
 tracing. What do we mean by black box? For any given hardware and software
@@ -79,6 +79,7 @@ from the full ray pipelines first specified. This allows for easier
 implementation of some specific effects, particularly ray-traced shadows.
 
 ## Advice for Developers
+
 So, with two ray-tracing programming models for developers to target and still
 only one generation of shipping accelerators to try it out on, and with key
 parts of DXR and Vulkan ray tracing specified as completely
@@ -125,12 +126,8 @@ performance in idiomatic game-like settings? Absolutely, and we'd love to talk
 to anyone who wants to tackle that problem, since it's a big missing piece of
 the puzzle.
 
-## Real-time graphics has entered a new era with the advent of ray tracing,
-which delivers more realistic scenes than ever before. But all current
-implementations centre around one vendor—and that raises issues, especially
-when the competitive field expands.
+### Real-time graphics has entered a new era with the advent of ray tracing, which delivers more realistic scenes than ever before. But all current implementations centre around one vendor—and that raises issues, especially when the competitive field expands.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-
