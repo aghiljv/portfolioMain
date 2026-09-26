@@ -27,7 +27,7 @@ useSeoMeta({
   ogTitle: page.value?.seo.title || page.value?.title,
   description: page.value?.seo.description || page.value?.description,
   ogDescription: page.value?.seo.description || page.value?.description,
-  ogImage: page.value?.image || '/assets/images/seo/homepageSEO.png'
+  ogImage: page.value?.image || '/assets/images/seo/homePageSEO.png'
 })
 
 const articleLink = computed(() => `${window?.location}`)
