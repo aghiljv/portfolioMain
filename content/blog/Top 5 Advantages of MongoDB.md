@@ -16,7 +16,8 @@ environment. It is a cross-platform, document-oriented and non-structured
 database.
 
 ## 1. Flexible Database
-![adhoc](/assets/images/blog/270420/adhoc.jpg)
+
+![pencil](/assets/images/blog/270420/pencil.jpg)
 
 MongoDB stores data in flexible JSON-like documents, which makes data
 persistence and combining easy. The objects in your application code is mapped
@@ -27,7 +28,8 @@ one can modify the schema dynamically. Due to this flexibility, a developer
 needs to worry less about data manipulation.
 
 ## 2. High Speed
-![pencil](/assets/images/blog/270420/pencil.jpg)
+
+![speed](/assets/images/blog/270420/speed.jpg)
 
 A flexible data model with dynamic schema and with powerful GUI and command
 line tools, makes it fast for developers to build and evolve applications.
@@ -39,7 +41,8 @@ query response. The speed of MongoDB is 100 times faster than the relational
 database.
 
 ## 3. Auto-sharding
-![scalable](/assets/images/blog/270420/scalable.png)
+
+![shard](/assets/images/blog/270420/shard.jpg)
 
 MongoDB can store a large data by distributing it to several servers connected
 to the application. If a server cannot handle such a big data then there will
@@ -48,7 +51,8 @@ native application to maintain multiple copies of data. Preventing database
 downtime is one of the replica set’s features as it has self-healing shard.
 
 ## 4. Scalability
-![shard](/assets/images/blog/270420/shard.jpg)
+
+![scalable](/assets/images/blog/270420/scalable.png)
 
 With the ever evolving needs of businesses, their database systems also needed
 to be upgraded. A great advantage of MongoDB is that it is a horizontally
@@ -57,7 +61,8 @@ and automatic integration. When you have to handle a large data, you can
 distribute it to several machines.
 
 ## 5. Ad-hoc Query Support
-![speed](/assets/images/blog/270420/speed.jpg)
+
+![adhoc](/assets/images/blog/270420/adhoc.jpg)
 
 Generally, when we design a schema of a database, we don’t know in advance
 about the queries we will perform. Ad-hoc queries are the queries not known
@@ -66,11 +71,8 @@ which makes it so special in this case. Ad-hoc queries are updated in real
 time, leading to an improvement in performance. MongoDB has a very advanced
 feature for ad hoc queries.
 
-Being a NoSQL database, MongoDB has so many great features. These amazing
-features make this technology very unique and attractive. Also, these
-features are making MongoDB widely usable and popular.
+### Being a NoSQL database, MongoDB has so many great features. These amazing features make this technology very unique and attractive. Also, these features are making MongoDB widely usable and popular.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

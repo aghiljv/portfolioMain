@@ -30,13 +30,13 @@ it is not all targeted advertising. Data reaped from the IoT can be used for
 other reasons:
 
 - Health providers can measure the activation and engagement efforts of
-patients.
+  patients.
 
 - Organizations can test the effectiveness of their campaigns, both
-commercial and non-profit.
+  commercial and non-profit.
 
 - Policymakers could even personalize content, affecting laws and current
-programs.
+  programs.
 
 Companies using the IoT to get us to change our behaviours is not really about
 the “things” at all. As the IoT links people with their actions, we have
@@ -77,6 +77,7 @@ customers might still avoid it because it feels creepy. This psychological
 discomfort can cause us to avoid it, a tendency known as the ostrich effect.
 
 ## Value for individual, gain for company
+
 The IoB influences consumer choice, but it also redesigns the value chain.
 While a majority of consumers indicate unhappiness at giving away their data
 for free, many are satisfied with doing so as long as it brings them an added
@@ -95,6 +96,7 @@ assist us are commercial, so their health provenance is dubious and they have
 their own goals: sell.
 
 ## Security and Privacy Concerns
+
 The IoT itself is not inherently problematic. A lot of people like having
 their devices synced and get benefits and convenience from this setup.
 Instead, the concern is how we gather, navigate and use the data, particularly
@@ -107,10 +109,8 @@ entire online ecosystem, frequently without our permission. This presents
 significant security and legal risks and there is little legal protection in
 place for these concerns.
 
-## The IoT surely converts data to information. But it is too early to know
-whether the IoB can translate knowledge of us into real wisdom.
+### The IoT surely converts data to information. But it is too early to know whether the IoB can translate knowledge of us into real wisdom.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

@@ -30,6 +30,7 @@ Well, with my brief time with Unreal Engine, I think the following are some of
 the best it can offer.
 
 ## 1. Unreal Engine is Free
+
 Development as well as releasing products with Unreal Engine is free. Well
 almost. Initially, you had to pay a 5% royalty to Epic Games, but only when
 the product passes $3000 per quarter. But along with the announcement of
@@ -41,6 +42,7 @@ Even still, this is amazing for small companies and studios as well as for the
 students who are interested in a cutting-edge game engine.
 
 ## 2. Blueprints
+
 ![blueprint](/assets/images/blog/180520/blueprint.jpg)
 
 Unreal Engine's visual scripting system, Blueprint, is the main reason the
@@ -50,6 +52,7 @@ interface allows designers who don't have a technical background to explore
 their ideas without needing to know how to code.
 
 ## 3. Broad Toolset
+
 ![ueeditor](/assets/images/blog/180520/ueeditor.jpg)
 
 Unreal Engine's ease of use is also supported by a wide range of features and
@@ -60,6 +63,7 @@ network, light-mapping, performance and memory tracking tools for
 optimisation, etc… are some of the examples.
 
 ## 4. Ability to handle wide variety of projects
+
 Flexibility is one of the driving factors of Unreal Engine. It can handle a
 wide variety of projects with ease. Including the fact that it serves a wide
 variety of industries it also can handle various genres of games –
@@ -68,6 +72,7 @@ also made efforts for 2D games, but, to my humble opinion, not as extensively
 as its competitors.
 
 ## 5. Access to source code
+
 Epic games gives you access to the entire C++ source code of the Unreal
 Engine. You can download the code from GitHub, tweak it and the best part is,
 you don’t have to pay for it as well. The ability to access the source code of
@@ -75,11 +80,8 @@ the engine and modify it to specific needs did drive some companies to choose
 Unreal as their game engine. This also allows the users to fix the issues of
 the engine, themselves.
 
-Along with enhancing the existing features, Unreal Engine 5 does bring a
-lot new to the table. It does give its competitors a lot more than a run for
-their money.
+### Along with enhancing the existing features, Unreal Engine 5 does bring a lot new to the table. It does give its competitors a lot more than a run for their money.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

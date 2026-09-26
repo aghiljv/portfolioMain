@@ -23,10 +23,12 @@ identical sensors. One can distinguish direct fusion, indirect fusion and
 fusion of the outputs of the former two.
 
 ## Direct fusion
+
 Direct fusion is the fusion of sensor data from a set of heterogeneous or
 homogeneous sensors, soft sensors and history values of sensor data.
 
 ## Indirect fusion
+
 Indirect fusion uses information sources like “a priori” knowledge about the
 environment and human input.
 
@@ -58,6 +60,7 @@ The process can be done more efficiently while making use of a centralised
 domain controller. Some of the benefits include:
 
 ## 1. Reduced sensor sizes
+
 Not so long ago, the processing power to analyse sensor data to determine and
 track objects has been packaged with the cameras or radars. With a centralised
 domain controller present, sensor data can be collected from each sensor and
@@ -65,6 +68,7 @@ fused within, which will result in reduced sensor sizes as the sensors now
 does not need to process the information that they collect.
 
 ## 2. Increased data sharing
+
 With traditional systems, smart sensors process environmental inputs
 independently, which means any decisions made when using the information are
 only as good as what that individual sensor can see. Now, all the data coming
@@ -74,16 +78,14 @@ Artificial Intelligence (AI) tools, useful information could be extracted that
 would otherwise be discarded.
 
 ## 3. Reduced Latency
+
 The domain controller does not have to wait for the sensor to process data
 before acting upon it. This could help in increased speed in response and thus
 reduced latency. This will be a huge advantage in situations where even a
 fraction of a second matters.
 
-## By embracing a vehicle architecture that allows for a high number of sensors
-and then synthesizes the data through sensor fusion, vehicles can become
-smarter, faster.
+### By embracing a vehicle architecture that allows for a high number of sensors and then synthesizes the data through sensor fusion, vehicles can become smarter, faster.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

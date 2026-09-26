@@ -21,7 +21,8 @@ improve our world and make everyday life that little bit easier. Here are five
 ways I think society will benefit from autonomous cars.
 
 ## 1. Easier Parking
-![commute](/assets/images/blog/030820/commute.jpg)
+
+![parking](/assets/images/blog/030820/parking.jpg)
 
 It's also hoped that autonomous vehicles will improve parking in congested
 cities because driverless vehicles could simply drop passengers off and move
@@ -38,7 +39,8 @@ may no longer be flanked by huge, ugly car parks, and will instead favour
 dedicated areas for drop-offs and pick-ups.
 
 ## 2. Emission Reduction
-![domesticTravel](/assets/images/blog/030820/domesticTravel.jpg)
+
+![emission](/assets/images/blog/030820/emission.jpg)
 
 In the future, with the majority of self-driving vehicles being electric or
 hybrids, and given the fact that autonomous vehicles drive more efficiently
@@ -56,7 +58,8 @@ ownership if we’re to reap the full environmental benefits of autonomous
 vehicles.
 
 ## 3. Cutting domestic air travel
-![emission](/assets/images/blog/030820/emission.jpg)
+
+![domesticTravel](/assets/images/blog/030820/domesticTravel.jpg)
 
 Volvo’s 360c concept car, which was unveiled in 2018, provides a glimpse of a
 future in which self-driving cars are no longer just cars – they're places to
@@ -72,7 +75,8 @@ could be made overnight, this vision could seriously disrupt the travel
 industry – and cut the carbon footprint associated with travel.
 
 ## 4. Making our roads safer
-![parking](/assets/images/blog/030820/parking.jpg)
+
+![saferRoad](/assets/images/blog/030820/saferRoad.jpg)
 
 While there have been some high-profile cases of autonomous vehicles being
 involved in tragic fatal accidents, data suggests that self-driving cars will
@@ -86,6 +90,8 @@ just for drivers, but also passengers, cyclists, and pedestrians. For that
 reason, the NHTSA has championed the safety benefits of autonomous vehicles.
 
 ## 5. Making the daily commute more bearable
+
+![commute](/assets/images/blog/030820/commute.jpg)
 When we reach the point where human intervention behind the wheel is no longer
 needed, autonomous vehicles will drastically improve the daily commute.
 Imagine, instead of sitting behind the wheel, you’ll be able to stretch out in
@@ -94,10 +100,8 @@ Netflix obsession. When you think that Americans spend 19 full working days a
 year stuck in traffic on their commute, that’s an awful lot of time commuters
 will be able to claw back for themselves.
 
-As more and more companies are leaning into Virtual Test Driving, this list
-could only increase and contribute more for a driver-less future.
+### As more and more companies are leaning into Virtual Test Driving, this list could only increase and contribute more for a driver-less future.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

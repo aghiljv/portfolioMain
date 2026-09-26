@@ -23,18 +23,22 @@ front-end development world.
 Here are some of the key benefits of micro frontends:
 
 ## Scalability
+
 Micro frontends can be scaled independently, which means that the overall application can be scaled more easily and
 efficiently.
 
 ## Resilience
+
 If one micro frontend fails, the other micro frontends can continue to operate. This makes the overall application
 more resilient to failures.
 
 ## Ease of development and deployment
+
 Micro frontends can be developed and deployed independently, which makes the development process more agile and
 efficient.
 
 ## Team autonomy
+
 Micro frontends can be owned and developed by different teams, which gives teams more autonomy and flexibility.
 
 Micro frontends can be implemented in a number of ways. One common approach is to use a container orchestration
@@ -49,14 +53,14 @@ number of benefits, including scalability, resilience and ease of development an
 Here are some examples of how micro frontends can be used:
 
 - A large e-commerce website could use micro frontends to split the front-end application into separate micro
-frontends for each product category. This would make the application more scalable and easier to maintain.
+  frontends for each product category. This would make the application more scalable and easier to maintain.
 
 - A news website could use micro frontends to split the front-end application into separate micro frontends for
-each section of the website, such as news, sports and entertainment. This would make it easier to develop and
-deploy new features for each section of the website.
+  each section of the website, such as news, sports and entertainment. This would make it easier to develop and
+  deploy new features for each section of the website.
 
 - A SaaS application could use micro frontends to split the front-end application into separate micro frontends
-for each customer. This would make it easier to customize the front-end application for each customer.
+  for each customer. This would make it easier to customize the front-end application for each customer.
 
 Micro frontends are not a silver bullet and they are not right for every front-end application. However, they offer
 a number of benefits that can make them a good choice for large and complex front-end applications.
@@ -69,9 +73,7 @@ If you are considering using micro frontends in your next front-end project, her
 
 - Micro frontends require careful planning and coordination between teams.
 
-## Micro frontends are a promising new approach to front-end development that can offer a number of benefits for large
-and complex applications.
+### Micro frontends are a promising new approach to front-end development that can offer a number of benefits for large and complex applications.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the author, and not necessarily to the
 author's employer, organisation, committee or other group or individual.
-

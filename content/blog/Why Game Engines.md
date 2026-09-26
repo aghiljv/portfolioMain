@@ -41,9 +41,9 @@ On top of these most modern game engines also cover areas like:
 
 But, why and how did they came into existence?
 
-On top of these most modern game engines also cover areas like:
+To understand, we need to go back in time.
 
-![newAreas](/assets/images/blog/210920/newAreas.jpg)
+![oldGames](/assets/images/blog/210920/oldGames.jpg)
 
 Back in the day almost every game was built from scratch.
 
@@ -96,13 +96,10 @@ choices as third -party game engines would have been Unreal Engine and Unity
 
 - Ubisoft - AnvilNext
 
-## Game engines are not just for creating games now. They have taken over
-various areas such as high fidelity simulations, real-time graphics rendering
-in movies and so much more.
+### Game engines are not just for creating games now. They have taken over various areas such as high fidelity simulations, real-time graphics rendering in movies and so much more.
 
-![oldGames](/assets/images/blog/210920/oldGames.jpg)
+![newAreas](/assets/images/blog/210920/newAreas.jpg)
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

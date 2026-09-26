@@ -14,7 +14,7 @@ author:
 It has been more than a year since this whole debacle began and tipped the balance for most of us. Working from
 home, masks and lock-downs have taken a toll, to say the least.
 
-\*\*But, eventually we all had to come out of the shock and rearrange our lives to the new normal. On the other hand, we
+But, eventually we all had to come out of the shock and rearrange our lives to the new normal. On the other hand, we
 also had time, to find new hobbies, embrace existing ones, learn something new, etc. My method of coping primarily
 involved writing articles, reading the books that I never thought I had time to before and learning some new
 technologies.
@@ -53,7 +53,7 @@ option for that as well.
 And just like that [AghilJose.com](https://aghiljose.com) came to existence and my [personal blog](https://aghiljose.com/blog) - which has all
 the articles that I publish here on LinkedIn.
 
-![pcpic](/assets/images/blog/060421/pcpic.jpg)
+![site](/assets/images/blog/060421/site.jpg)
 
 ## Assembling a custom PC.
 
@@ -64,7 +64,7 @@ build, by somebody else. Now, I had time (a lot of it) and money to do so.
 So as a result of a month long research and help, I was able to buy necessary components and build my desktop PC
 myself.
 
-![site](/assets/images/blog/060421/site.jpg)
+![pcpic](/assets/images/blog/060421/pcpic.jpg)
 
 ## Learning
 
@@ -123,10 +123,7 @@ trips with my friends as well.
 
 ![treesandlake](/assets/images/blog/060421/treesandlake.jpg)
 
-## The pandemic is still not over and we still cannot let our guard down. So, until things get back to what it was
-
-(also after), hopefully sooner than later, take care of yourselves, learn and explore new things and places and stay
-safe.
+### The pandemic is still not over and we still cannot let our guard down. So, until things get back to what it was (also after), hopefully sooner than later, take care of yourselves, learn and explore new things and places and stay safe.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,

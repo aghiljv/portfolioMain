@@ -19,7 +19,8 @@ most of them could be avoided if we implement the so called good practices
 into the software development life-cycle.
 
 ## 1. Accurate understanding of end-user needs
-![correctFirst](/assets/images/blog/020920/correctFirst.jpg)
+
+![userNeeds](/assets/images/blog/020920/userNeeds.jpg)
 
 No matter you are making software as a product or for a client, you have to
 have a clear understanding of the end-user needs. Significant man hours have
@@ -30,7 +31,8 @@ statement first-hand. Then and only then we could try and solve the problem
 more efficiently.
 
 ## 2. Taking it slow
-![refactor](/assets/images/blog/020920/refactor.jpg)
+
+![slow](/assets/images/blog/020920/slow.jpg)
 
 “Slow and steady wins the race”. Sure, you could actually make the software
 development process much faster, but usually at the expense of compromising
@@ -40,7 +42,8 @@ could save the time and resources while building it in the first place. But,
 when (not if) it comes back with bugs, it will cost you more of both.
 
 ## 3. Refactor
-![slow](/assets/images/blog/020920/slow.jpg)
+
+![refactor](/assets/images/blog/020920/refactor.jpg)
 
 There is usually the need to upgrade and maintain a software as time goes on.
 Whenever you see the need and have the chance do not hesitate to refactor the
@@ -48,13 +51,15 @@ code. Refactoring will usually help create a code base with increased
 readability, smooth execution, less bugs and higher performance.
 
 ## 4. Make code correct first and fast second
-![userNeeds](/assets/images/blog/020920/userNeeds.jpg)
+
+![correctFirst](/assets/images/blog/020920/correctFirst.jpg)
 
 Your primary focus should always be achieving the desired functionality. It
 doesn’t matter how better the design or how fast the response is, if it cannot
 produce appropriate output, that software is useless and a liability.
 
 ## 5. Using version control
+
 ![versionControl](/assets/images/blog/020920/versionControl.jpg)
 
 Do not wait for the software to grow beyond a certain size to incorporate
@@ -68,4 +73,3 @@ backup as well as a smooth workflow.
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

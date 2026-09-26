@@ -25,7 +25,7 @@ base.
 
 ## 1. Coding with Older HTML Standards
 
-![browsers](/assets/images/blog/200420/browsers.png)
+![html5](/assets/images/blog/200420/html5.png)
 
 Many front-end developers stopped the practice of coding with old HTML
 elements after HTML5 came into existence as the newest form of HTML. HTML5
@@ -53,7 +53,7 @@ as they tend to last longer than most.
 
 ## 3. Not Testing Code with Major Browsers
 
-![html5](/assets/images/blog/200420/html5.png)
+![browsers](/assets/images/blog/200420/browsers.png)
 
 If you miss out on testing your code for all the major browsers, your site
 could lose users who still like to use the same older browsers. JavaScript and
@@ -94,10 +94,7 @@ perspective as it is one of the factors search engines take into account for
 rankings. Therefore, it’s a good practice to keep on testing your site and
 keep a track over its performance.
 
-A front-end developer could easily avoid these common mistakes and ensure
-that their site is easy to use and loads fast. Moreover, good JavaScript
-libraries and supported code help design a responsive and mobile friendly
-site, which has become the need of the hour.
+### A front-end developer could easily avoid these common mistakes and ensure that their site is easy to use and loads fast. Moreover, good JavaScript libraries and supported code help design a responsive and mobile friendly site, which has become the need of the hour.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee

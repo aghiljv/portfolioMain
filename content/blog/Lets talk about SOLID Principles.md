@@ -81,9 +81,7 @@ one might see the need for. Typically, dependency injection is used simply by
 ‘injecting’ any dependencies of a class through the class’ constructor as an
 input parameter.
 
-## By applying these 5 principles that make the SOLID acronym, we get to
-
-benefit from a reusable, maintainable, scalable and easy testable codebase.
+### By applying these 5 principles that make the SOLID acronym, we get to benefit from a reusable, maintainable, scalable and easy testable codebase.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee

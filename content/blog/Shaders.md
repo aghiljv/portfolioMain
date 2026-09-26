@@ -24,6 +24,7 @@ and efficient computer graphics operation or image manipulation.
 Shaders are categorised based on their functionality.
 
 ## Vertex Shader
+
 Vertex shader transforms each vertex's 3D position in virtual space to the 2D
 coordinate at which it appears on the screen (as well as a depth value for the
 Z-buffer). Vertex shaders can manipulate properties such as position, colour
@@ -34,6 +35,7 @@ powerful control over the details of position, movement, lighting, and colour
 in any scene involving 3D models.
 
 ## Pixel Shader
+
 Pixel shaders, also known as fragment shaders, compute colour and other
 attributes of each "fragment"- a unit of rendering work affecting at most a
 single output pixel. The simplest kinds of pixel shaders output one screen
@@ -43,6 +45,7 @@ colour, to applying a lighting value, to doing bump mapping, shadows, specular
 highlights, translucency and other phenomena.
 
 ## Tessellation Shader
+
 As of OpenGL 4.0 and Direct3D 11, a new shader class called a tessellation
 shader has been added. It adds two new shader stages to the traditional model-
 tessellation control shaders (also known as hull shaders) and tessellation
@@ -57,6 +60,7 @@ meshes to be refined once inside the shader units instead of down-sampling
 very complex ones from memory.
 
 ## Geometry Shader
+
 The geometry shader is responsible for the creation of new rendering
 primitives parting from the output of the vertex shader. A geometry shader is
 executed once per primitive, which is, in the worst case (when it is used to
@@ -68,16 +72,15 @@ the scene's complexity, and that always translates into more computational
 time spent by the GPU to render the scene.
 
 ## Compute Shader
+
 The compute shader is a general-purpose shader that is used outside of a
 rendering pipeline. That means they are not used to draw a primitive or to
 shade a pixel. They are used for using GPUs parallel processing capability for
 general-purpose tasks. Additional stages in animation or lighting algorithms
 can be examples of compute shaders.
 
-## Shaders transform dull and dreary environments that may have lacked a
-cohesive look to staggeringly beautiful works of art.
+### Shaders transform dull and dreary environments that may have lacked a cohesive look to staggeringly beautiful works of art.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

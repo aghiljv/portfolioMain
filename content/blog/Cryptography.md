@@ -31,18 +31,22 @@ decryption). Individuals who practice this field are known as cryptographers.
 
 Modern cryptography concerns itself with the following four objectives:
 
-## 1. Confidentiality
+### 1. Confidentiality
+
 The information cannot be understood by anyone for whom it was unintended.
 
-## 2. Integrity
+### 2. Integrity
+
 The information cannot be altered in storage or transit between sender and
 intended receiver without the alteration being detected.
 
-## 3. Non-repudiation
+### 3. Non-repudiation
+
 The creator/sender of the information cannot deny at a later stage his or her
 intentions in the creation or transmission of the information.
 
-## 4. Authentication
+### 4. Authentication
+
 The sender and receiver can confirm each other's identity and the
 origin/destination of the information.
 
@@ -66,6 +70,7 @@ authentication, and key exchange.
 Cryptographic algorithms can be broadly classified to two types.
 
 ## Single-key or symmetric-key encryption
+
 Single-key or symmetric-key encryption algorithms create a fixed length of
 bits known as a block cipher with a secret key that the creator/sender uses to
 encipher data (encryption) and the receiver uses to decipher it. Types of
@@ -81,6 +86,7 @@ longer key lengths (128-bit, 192-bit, 256-bit) to prevent brute force and
 other attacks.
 
 ## Public-key or asymmetric-key encryption
+
 Public-key or asymmetric-key encryption algorithms use a pair of keys, a
 public key associated with the creator/sender for encrypting messages and a
 private key that only the originator knows (unless it is exposed or they
@@ -93,12 +99,8 @@ in cryptography, hash functions, which return a deterministic output from an
 input value, are used to map data to a fixed data size. Types of cryptographic
 hash functions include SHA-1 (Secure Hash Algorithm 1), SHA-2 and SHA-3.
 
-## Attackers can bypass cryptography, hack into computers that are responsible
-for data encryption and decryption, and exploit weak implementations, such as
-the use of default keys. However, cryptography makes it harder for attackers
-to access messages and data protected by encryption algorithms.
+### Attackers can bypass cryptography, hack into computers that are responsible for data encryption and decryption, and exploit weak implementations, such as the use of default keys. However, cryptography makes it harder for attackers to access messages and data protected by encryption algorithms.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

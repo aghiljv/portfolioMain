@@ -25,7 +25,7 @@ as sharing those experiences with other engineers.
 
 In short, design patterns try to solve the issues that come along with change.
 
-** Ever Changing Software** **
+## Ever Changing Software
 
 ![change](/assets/images/blog/070920/change.jpg)
 
@@ -73,7 +73,7 @@ code that is easier to change is easy to maintain as well.
 But the design patterns have also opened doors for new problems as well.
 Caused by the abuse of the same. They are called Anti-patterns.
 
-** Anti-Patterns** **
+** Anti-Patterns** \*\*
 
 Throughout the brief history of software design and development, every new
 programming language, every methodology was always thought by most to be the
@@ -90,7 +90,8 @@ better.
 But we can safely say that there is but one golden and universal design
 pattern – KISS (Keep It Simple, Stupid).
 
-##  KISS (Keep It Simple, Stupid)
+## KISS (Keep It Simple, Stupid)
+
 ![kiss](/assets/images/blog/070920/kiss.jpg)
 
 Every new line of code that we write is a new potential thing which can go
@@ -101,10 +102,8 @@ easier said than done.
 
 But we might be inspired to do it always right if we think like the following.
 
-Always code as if the guy who ends up maintain your code will be a violent
-psychopath who knows where you live.
+### Always code as if the guy who ends up maintain your code will be a violent psychopath who knows where you live.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

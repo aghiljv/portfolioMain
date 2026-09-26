@@ -86,8 +86,7 @@ Below are the status of some OEMs on the autonomous field:
 
 ![status](/assets/images/blog/150620/status.jpg)
 
-Due to regulations, legal battles and the technology Level 5 vehicles are
-probably still many years away.
+### Due to various reason and the technology Level 5 vehicles are probably still many years away.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee

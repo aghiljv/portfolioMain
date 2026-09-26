@@ -39,6 +39,7 @@ specific position in a three-dimensional space.
 Point clouds can be created in the following ways.
 
 ## LiDAR
+
 LiDAR (Light Detection and Ranging) technology uses light to measure distances
 and dimensions. Time of flight LiDAR (the most popular method) works by
 sending a pulse of light from a laser. Each pulse is measured and added to the
@@ -46,6 +47,7 @@ point cloud. Once the entire space or landscape has been measured, the point
 cloud can be used to create a 3D map or CAD model.
 
 ## Photogrammetry
+
 Point clouds can also be collected using photogrammetry, which uses multiple
 photos, taken from various angles, to calculate points. Photogrammetric point
 clouds give each point an RGB value, which then creates a colorized point
@@ -71,10 +73,8 @@ softwares, we can, not only create 3D models, but also identify risks and
 create solutions. This could be not just more efficient, but potentially
 life-saving.
 
-## When planning, measurements, and experiments can take place safely in the
-digital point cloud environment, time and money can be saved.
+### When planning, measurements, and experiments can take place safely in the digital point cloud environment, time and money can be saved.
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

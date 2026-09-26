@@ -72,7 +72,8 @@ more tests or write less future legacy codes. Now the following are how the
 size of your team or company could influence your code.
 
 ## Small Companies
-**![big](/assets/images/blog/051020/big.jpg)
+
+![small](/assets/images/blog/051020/small.jpg)
 
 You have to get things done. This could mean you writing less unit tests. The
 number of people who look and review your code will be less. There might not
@@ -85,7 +86,8 @@ to be thrown out completely and start over. Ideally you keep in mind that
 every chunk of code has a timeline and you should write it accordingly.
 
 ## Big Companies
-![small](/assets/images/blog/051020/small.jpg)
+
+![big](/assets/images/blog/051020/big.jpg)
 
 Horizontal organisational structures are rare in big companies. This means
 there could be someone on your team that will only merge code if it satisfies
@@ -103,10 +105,8 @@ CI/CD will just work if someone senior or more involved has done their job.
 You wouldn’t have to spend time with the hassles around the infrastructure.
 This could make you faster.
 
-## Good engineers who learns constantly will observe radical changes in the way
-they write code.
+### Good engineers who learns constantly will observe radical changes in the way they write code.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-

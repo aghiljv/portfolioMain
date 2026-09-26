@@ -63,10 +63,8 @@ types of sensors where you need to gather the feedback and monitor the
 feedback that you are getting. But you can get those data points to figure out
 something that we need to check before a problem ever arises.
 
-## Edge computing has a pivotal role in the future and it is not a question of
-if, but when?
+### Edge computing has a pivotal role in the future and it is not a question of if, but when?
 
 Disclaimer : The views and opinions expressed in the article belong solely to
 the author, and not necessarily to the author's employer, organisation,
 committee or other group or individual.
-

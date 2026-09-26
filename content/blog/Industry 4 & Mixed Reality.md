@@ -27,7 +27,8 @@ plethora of other features.
 But what can Mixed Reality contribute to the Industry 4.0?
 
 ## 1. Speed up the Quality Control process
-![improveTraining](/assets/images/blog/220620/improveTraining.jpg)
+
+![speedUpCP](/assets/images/blog/220620/speedUpCP.jpg)
 
 Leveraging the use of overlaid information is also gaining supporters in
 Quality Control, using both HMDs and handheld IoT devices. Aerospace is one
@@ -39,6 +40,7 @@ environments, Airbus has reported a reduction in time required to inspect A380
 fuselage brackets, from three weeks to just three days.
 
 ## 2. Minimize skilled labour shortage
+
 It is estimated that there will be almost 3.5 million manufacturing jobs
 available over the next decade as ‘Baby Boomers’ exit the workforce. Already
 dealing with pressure to fill current open positions, how can manufacturers
@@ -50,7 +52,8 @@ integrating new technologies familiar to a younger demographic, manufacturers
 can experience a smoother on-boarding journey.
 
 ## 3. Improve employee training
-![speedUpCP](/assets/images/blog/220620/speedUpCP.jpg)
+
+![improveTraining](/assets/images/blog/220620/improveTraining.jpg)
 
 Whether class-based or following study guides in the form of books and online
 courses, training sessions can now be enhanced or even replaced using mixed
@@ -64,6 +67,7 @@ witnessed a more efficient training output, they have cut time taken to create
 the training modules as well as cost; which is now a tenth of what it was.
 
 ## 4. Stay competitive
+
 Combining the benefits of mixed reality with the analytics-driven power of IoT
 can leverage significant improvements. The potential opportunities are huge;
 and with the industry predicted to grow to US$108bn by 2021, new innovations
@@ -73,6 +77,7 @@ and automating manufacturing processes to optimize efficiency and reduce
 waste.
 
 ## 5. Reduce call out times for maintenance
+
 Organizations that used to rely on engineers, working with heavy and often
 outdated manuals, are now using mixed reality to dramatically cut call out
 times. One such company is elevator manufacturer ThyssenKrupp. Engineers
@@ -82,10 +87,8 @@ that’s not all – when engineers place a call to a support line, the remote
 expert has a ‘you see what I see’ view, allowing them to provide guidance as
 if they were physically present on the customer site.
 
-By adopting the right technology such as Mixed Reality, at the right time,
-businesses will thrive as the Industry 4.0 gathers pace.
+### By adopting the right technology such as Mixed Reality, at the right time, businesses will thrive as the Industry 4.0 gathers pace.
 
 Disclaimer : The views and opinions expressed in the article belong solely to the
 author, and not necessarily to the author's employer, organisation, committee
 or other group or individual.
-
