@@ -39,14 +39,14 @@ experience:
     - position: "Software Engineer II at"
       date: "2021 - 2022"
       company:
-        name: Nissan Motor Corporation
+        name: Nissan
         logo: "i-simple-icons-car"
         url: "https://www.nissan-global.com/"
         color: "#007aff"
     - position: "Software Engineer I at"
       date: "2018 - 2021"
       company:
-        name: Nissan Motor Corporation
+        name: Nissan
         logo: "i-simple-icons-car"
         url: "https://www.nissan-global.com/"
         color: "#007aff"
