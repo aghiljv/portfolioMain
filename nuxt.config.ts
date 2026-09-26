@@ -42,7 +42,7 @@ export default defineNuxtConfig({
     }
   },
 
-  ogImage: {
-    zeroRuntime: true
-  }
+  // ogImage: {
+  //   zeroRuntime: true
+  // }
 })
