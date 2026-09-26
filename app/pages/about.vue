@@ -12,9 +12,6 @@ if (!page.value) {
 
 const { global } = useAppConfig()
 
-const title = page.value?.seo?.title || page.value?.title
-const description = page.value?.seo?.description || page.value?.description
-
 useSeoMeta({
   title: page.value?.seo.title || page.value?.title,
   ogTitle: page.value?.seo.title || page.value?.title,
@@ -22,7 +19,6 @@ useSeoMeta({
   ogDescription: page.value?.seo.description || page.value?.description,
   ogImage: '/assets/images/seo/homepageSEO.png'
 })
-
 </script>
 
 <template>

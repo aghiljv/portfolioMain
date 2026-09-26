@@ -22,9 +22,6 @@ const { data: surround } = await useAsyncData(`${routePath.value}-surround`, asy
   return [posts[currentIndex - 1], posts[currentIndex + 1]] as unknown as Array<NonNullable<typeof posts[number]>>
 })
 
-const title = page.value?.seo?.title || page.value?.title
-const description = page.value?.seo?.description || page.value?.description
-
 useSeoMeta({
   title: page.value?.seo.title || page.value?.title,
   ogTitle: page.value?.seo.title || page.value?.title,
@@ -32,7 +29,6 @@ useSeoMeta({
   ogDescription: page.value?.seo.description || page.value?.description,
   ogImage: page.value?.image || '/assets/images/seo/homepageSEO.png'
 })
-
 
 const articleLink = computed(() => `${window?.location}`)
 
